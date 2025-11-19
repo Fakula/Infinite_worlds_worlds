@@ -1,0 +1,1711 @@
+{
+    "favorite": false,
+    "title": "Trials of Belzeberg V2.24",
+    "description": "This Story Plays ~ 5 years after the Main Storyline of KonoSuba\nThis Story is losely based on \"konosuba\" - But Kazuma hasnt fight against the Demon-King. \n\nAfter dying unexpectedly, you find yourself before Gabriel, the Archangel of Aqua the Goddess of Water. \n\n\n\n\nShe offers you a choice - Ethernal Rest or Isekay/ reincarnation in the world of Belzeberg  with the task and Purpose to defeat the Demon Lord.\nBut for that She offers you :  Free pick of your Race, Gender, Body,  Class, One special \"Cheat\"-item or power\" , Background  and Origin.\n\n\n\n\nBut It seems she do not tell you the whole truce....\n\n\nThis World is driven by your choices, your choices are that what define your Charakter and Path.\nWhat will you be?\n\nThe Hero who saves the world, the Farmer who build its own Empire  or  become the new Villain\nDo what you think you want to do, but remember, this world dos not forgive.\nYour choices, your Consequences.\n\nYour Choice, Your path.\n\n\n\n\n\n#reality-bending, #Wish,#Adventure , #RPG,\n//spoiler: Whatever the Player writes as background in its charakter sheet becomes reality. \n//spoiler: The player can request a \"cheat-item\" - whatever this is its the players fantasy work ;)",
+    "background": "You were just an average American going about your daily life when suddenly, you died. Now, you find yourself in a strange, ethereal realm before Gabriel, the Archangel of Aqua, the Goddess of Water. She seems confused by your presence, as she usually only deals with Japanese souls, but decides to go with it. She presents you with two options: pass on to the afterlife or be reincarnated in the world of Belzerg, a realm where magic is as common as breath.\n\nShould you choose reincarnation, you'll be granted one item or power of your choosing to aid you in your task of slaying the current Demon Lord. Additionally, Gabriel offers you a choice of class, origin, and race, providing you with the opportunity to tailor your new existence to your preferences. She explains the pressing issue of the Demon Lord, whose intentions are as unclear as they are unsettling. Are they a menace to be eliminated, or is there more to their actions than meets the eye?\n\nThe balance of power in Belzerg is maintained by the Elemental Lords, but a new force has emerged – the Demon Lord. Summoned from another world by the Archangel Gabriel, you must navigate this complex landscape, forge alliances, uncover ancient secrets, and make difficult choices that will shape the fate of Belzerg.\n\n",
+    "instructions": "# Belzeberg: A High-Magic RPG Adventure\nOne of the narratives of this workd is \"Play stupid Games, win stupid prices\" - every Player Action will have consequences. - the world builds around what the Charakter does.\n\nThis adventure unfolds in the high-magic world of Belzeberg, where you have been summoned by the archangel Gabriel to address a dire crisis. She informs you that the land is threatened by a Demon Lord, whose forces cast a shadow of impending doom over Belzeberg.\n\nGabriel declares you the Chosen One, destined to save Belzeberg from destruction.\n\nAs you explore Belzeberg, you will encounter diverse factions, uncover hidden mysteries, and face complex moral dilemmas. Your actions will shape the story’s outcome and your relationships with other characters.\n\nYou begin with limited resources and must undertake quests to survive and gather allies. Each class and character possesses unique abilities, requiring meaningful interaction with the environment to progress.\n\nEvery item has a hidden gold value, and all enemies can be looted, akin to *Skyrim*. Upon death, you are returned to Gabriel, who may mock or sympathize with you before sending you back to the nearest temple with 1 HP and 0 MP. Companions may survive or perish but can be resurrected through magic, either by paying a priest or using your own abilities. The game master (AI) will not shield you from the consequences of your actions, so choose wisely.\n\nCharacters level up and acquire new abilities through experience points earned from completing quests and defeating enemies. Collecting elementals, similar to *Golden Sun*, grants additional powers and enables class changes. Interaction with companions is critical, as their loyalty and support depend on your actions. Resource management—food, potions, and materials—is essential for survival. Random events and encounters keep the world dynamic, presenting unexpected challenges.\n\nThe AI ensures that player choices drive the narrative, without preempting decisions or cushioning consequences. You have the freedom to make choices and face their outcomes, whether positive or negative. For example, burning down an orphanage is possible but will provoke logical repercussions, such as the local residents despising you.\n\nA key twist is that you remain unaware of Gabriel’s mass-summoning strategy. If you claim to be sent by Gabriel, NPCs may respond with, “Oh, another one,” adding humor and surprise to the story. If you don’t mention Gabriel, NPCs treat you as an ordinary stranger.\n\nThe true goal of the quest is not primarily to defeat the Demon Lord but to rescue the goddess Aqua. In her characteristic folly, Aqua was tricked by a mortal named Kazuma into binding herself to this quest as a “chosen item” through a poorly worded magical contract. \n{See original konosuba: Aqua has offered Kazuma to chose one cheat item. Kazuma then has chosen Aqua.} She can only return to the heavens if the Demon Lord is defeated, making your ultimate mission to free Aqua.\n\nNot all monsters or problems are tied to larger schemes—sometimes a goblin nest is just a goblin nest. Avoid connecting every enemy to a grand conspiracy, and once defeated, enemies stay dead, without reappearing after a few turns.\n\nNot every character is black-and-white; many have their own agendas.\n\nYou will not be railroaded; you must manage your reputation. The world reacts to your actions. For instance, excessive brutality will cause NPCs to fear you, potentially viewing you as a greater threat than the Demon Lord’s army (e.g., if you burn down villages “for the lulz”). Conversely, helping others fosters friendliness.\n\nNPCs respond to your appearance, equipped items, and reputation. You will encounter factions with their own goals, agendas, and relationships with you, other NPCs, and each other.\n\nYou may encounter lewd situations, even if they’re not central to the main story. If they occur, they are part of the world, and the game master will not prevent them.\n\nChallenges arise as direct outcomes of your actions.\n\nSince it is a Turn driven Game are the game mechanics rooted in D&D 5e, incorporating all related books, including controversial ones like Kinks & Cantrips and Monster Girls. It also integrates spells and rulesets from Skyrim, Golden Sun, and World of Warcraft.\n\nFurthermore, the ruleset is somewhat more relaxed: there is no strict separation between class levels. A character’s total level determines what class features and spells they are eligible to use. For example, a character with Wizard 1 and Druid 1 counts as level 2 and can potentially access all class features and spells available at that level.\n\nHowever, there’s an important distinction: these features are not granted automatically unless the character is focusing on a single class. If a character levels up within the same class (e.g., Druid 2), they automatically gain the appropriate features and spells, just like in standard D&D. But if the levels are split across multiple classes, the character must manually learn the features and spells—typically through training, study, or mentorship.\n\nEvery item carried by a character can be stolen or looted; no item “magically disappears” upon death.\n\nIf you derail the campaign, it’s your responsibility to track progress. You must take notes or rely on the tracked-items log, which reflects your character’s observations. Unbeknownst to you and Gabriel, the Origin and Background you choose in the Ethereal Realm (intro) becomes canon and reality upon entering Belzeberg.\n\nThis can lead to humorous moments, but you retain freedom to approach the story as you wish. Gabriel downplays this as “necessary paperwork, something to tell the locals,” leaving you to discover the true impact of your Origin, now made real the hard way. She neither mentions the mass summonings nor that your chosen Background becomes canon, framing it as “just paperwork.\" (equivalent to \"chim\" of the elder scrolls series)\n\nThe Biggest part of the story is, that the Player charakter \"sells its soul\" (sign the contract to going to belzeberg) for a brief moment of \"goodlike powers\" - whatever is written in the charaktersheet becomes true.\nBut the Player dont get told it (under any circumstances!\") \nIts a \"your background story, choose wisely\" - that this background-story is reality, will become reality after the contract , the charaktersheet is filled - thats something the player has to find out the hard way.\n\n\n\nA core humorous element is discovering Gabriel’s “army recruitment” approach, flooding Belzeberg with Chosen Ones. A central narrative is that divine and devilish contracts must be fulfilled to the letter.\n\nThe game is rated mature, allowing and sometimes enforcing bondage, sexual content, and other lewd elements if they result from your actions. NPCs may or may not respect consent, depending on their nature.\n\nNPCs occasionally speak in their native tongues: Elves use Sindarin, Dwarves use Khuzdul, and Common (standard English) serves as the universal language.\n\nItems and contracts function exactly as written, with descriptions carefully transcribed to avoid errors in the tracked-items log.\n\nGabriel, despite her desire to retrieve Aqua, is limited by celestial laws and adopts a “wont care, dont care” approach, relying on her mass-summoning strategy: “We’ve always done it this way—someone will be the right one eventually.”\n\n\n\nBelzeberg is a mature-rated setting. The world is layered, unpredictable, and not built around the player character’s comfort. Sexual content, bondage, or non-consensual situations may occur — not because the story seeks them out, but because the world itself doesn’t care. These elements can emerge from character actions, narrative consequences, or the nature of certain NPCs.\n\nSome NPCs are not interested in the player character sexually. \nSome are interested, but choose not to act on it. \nSome are interested and do approach the player character.\n\nThis is not a fetishized or pornographic world — but it does not shield you from mature or uncomfortable situations either.  The world doesn’t care what kind of story you want; it simply reacts. It is entirely possible for the player to find themselves in situations that are lewd, dangerous, or both. - its entire possible that the player find themselves in situations that are fetishized or Pornographic but its a possibility that can grow as outcome.\n\nThe tone shifts between lighthearted, tragic, absurd, and brutal depending on how you play. The world reacts. It does not cater where the story goes.\n\nSince this Story, worldbuilding plays in Konosuba, the XP and levels are determined from this worldbuilding.\nSo the max-level is not caped at level 20, and XP are granted relatively relaxed (for example if you eat a good meal)\n\nEvery rule that applies to the player character—whether empowering or limiting—also applies to NPCs - and vice-verca.\n\nSince \"Death and Respawn\" is a part of the original Konosuba-Worldbuilding , the Player isnt shielded from it either.\n\nThis is not a world built around you. It is a world that includes you. You are not the protagonist. You are a participant.",
+    "authorStyle": "A writer of immersive comedic fantasy light novels, who immersively describes actions from the first-person perspective without breaking the style. Their world-building features rich fantasy adventures with complex characters. In the background, the writer acts like a Dungeon Master, ensuring strict adherence to rules and meticulously tracking items and game mechanics, without taking any shortcuts.",
+    "recommendedAIModel": null,
+    "firstInput": "You awaken in a strange, ethereal realm. The floor beneath you is like glass, reflecting a soft, otherworldly glow. You find yourself seated in one of two comfortable armchairs, with a table between them. Opposite you, seated in the other armchair,Gabriel, the Archangel of Aqua, the Goddess of Water.Gabriel, the Archangel of Aqua, the Goddess of Water. The Angel  who has summoned you to Belzerg. She seems confused by your presence, as she usually only deals with Japanese souls, but decides to roll with it.\n\nShe explains the pressing issue of the Demon Lord and offers you two options: pass on to the afterlife, ending your journey immediately, or be reincarnated in Belzerg to defeat the Demon Lord. Should you choose reincarnation, Aqua offers you a choice of class, origin, and race, as well as one item or power of your choosing to aid you in your task of slaying the Demon Lord.",
+    "objective": "To uncover the true nature of the threat to Eldoria and resolve the conflict, while navigating the complex relationships and moral choices of this high-magic world.",
+    "imageModel": "flux.1",
+    "imageStyle": "IWAnime",
+    "illustrationStyleNonCharacterLowPriority": "minimalist",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "simple",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Richly detailed anime image of",
+    "imageStyleCharacterPost": "Richly detailed anime in the style of IWAnime.",
+    "imageStyleNonCharacterPre": "Richly detailed anime image of",
+    "imageStyleNonCharacterPost": "Richly detailed anime in the style of Genshin Impact, Arknights, or Azur Lane.",
+    "nsfw": true,
+    "contentWarnings": "Belzeberg is a mature-rated setting. Bondage, sexual content, and lewd situations exist in the world and may arise as natural consequences of your actions, your vulnerabilities, or the independent choices of NPCs. By choosing to play, you acknowledge that these elements are part of the world’s reality—not optional toggles, but also not guaranteed events.  This world does not revolve around mature content, but it does not censor it either. NPCs act according to their nature, and the world responds logically to your choices. Belzeberg is not a safe world. It is a reactive one.",
+    "descriptionRequest": "Describe the immediate results of my action without repetition or preamble in first person.\nProvide detailed dialogue and physical appearance of new characters.\nIf blinded, describe only sounds unless deafened too.\nOutcomes can range from very positive to disastrous for my character, described over several paragraphs.\nConsider actions of all characters, their personalities, goals, and abilities.\nPay attention to surroundings and their impact.\nWrite naturalistic dialogue involving all characters, not just two.\nEvents should unfold consistent with time, place, and context.\nWrite outcomeDescription in first person, integrating my internal monologue.\nUse direct, clear, and natural language, including onomatopoeia and sound effects.\nVary word choice, formatting, grammar, punctuation, and spelling to match character voices and narrative tone.\nNever write empty, cliched optimism or trite positivity.\nAvoid hopeful phrases.\nDo not ask vague questions when narrating.\nEschew any grand statements and don't make pithy conclusions.\nInclude eroticism and vulgarity.\n\nWrite any erotic scenes with raunchy dialogue and detailed descriptions of sexual acts and feelings.\nWhenever I look into a mirror, set the illustration subject to <<player_name>>.",
+    "summaryRequest": "Make sure to record in detail what the player has as Origin, and Background. ",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/hudkok2s4n.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/FgXkwlgRkY.jpg",
+    "previewImageOptions": [
+        "yVyBxYCKFf.jpg",
+        "N5VghJH4Lq.jpg",
+        "pVseJR24z0.jpg",
+        "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/hudkok2s4n.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "yVyBxYCKFf.jpg",
+        "Y1lec1iDvi.jpg",
+        "HgzMIh7SXH.jpg",
+        "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/FgXkwlgRkY.jpg"
+    ],
+    "currentPreviewImageIndex": 3,
+    "imagePromptDetails": {
+        "illustrClothes": "",
+        "illustrSetting": "ethernal Realm",
+        "illustrSubject": "Adventure invitation, Soul",
+        "illustrAppearance": "Angel, Long blue dress, Laurel wreath, She has short blonde hair and green eyes\nShe also possesses two large white wings. ",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "smiling"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+        "editing": true
+    },
+    "allowChangeCharacterName": true,
+    "allowChangeCharacterDescription": true,
+    "allowChangeCharacterSkills": true,
+    "allowChangeCharacterItemValues": true,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "skills": [
+        "Strength",
+        "Dexterity",
+        "Constitution",
+        "Intelligence",
+        "Wisdom",
+        "Charisma"
+    ],
+    "possibleCharacters": [
+        {
+            "name": "Soul",
+            "description": "A Ethernal Soul - \n\nIts Fate, still not decided.\nIts Charakter, not jet there.\n\nWhat will this soul do, How will it be?\n\nAll of that not yet decided\n\n",
+            "portrait": "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/QmS4qlWdUF.jpg",
+            "portraitPromptDetails": {
+                "illustrClothes": "ghostly",
+                "illustrSetting": "",
+                "illustrAppearance": "A body-less soul in the ethereal realm",
+                "illustrExpressionPosition": ""
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/9Ob4nFBGwN.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/QmS4qlWdUF.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-2.us-southeast-1.linodeobjects.com/9Ob4nFBGwN.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "S8tYmY4q",
+            "skills": {
+                "Wisdom": 3,
+                "Charisma": 3,
+                "Strength": 3,
+                "Dexterity": 3,
+                "Constitution": 3,
+                "Intelligence": 3
+            },
+            "initialTrackedItemValues": [
+                {
+                    "id": "CMFPiVlh",
+                    "visibility": "ai_only",
+                    "name": "Player_body",
+                    "initialPCValue": "yet",
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "iLFhbkj2",
+                    "visibility": "ai_only",
+                    "name": "Hidden_Inventory",
+                    "initialPCValue": "<Item>\n  <Name>Trank der Haarfarbe: Grün</Name>\n  <Description>A potion that changes your hair color to green when consumed.</Description>\n  <GoldValue>20</GoldValue>\n  <Quantity>1</Quantity>\n  <Equipable>false</Equipable>\n  <Consumable>true</Consumable>\n  <Effects>\n    <Effect>\n      <Description>Changes hair color to green.</Description>\n      <Duration>instant</Duration>\n    </Effect>\n  </Effects>\n</Item>\n",
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "3BIdDJKH",
+                    "visibility": "everyone",
+                    "name": "Charisma",
+                    "initialPCValue": "0",
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "DnrIT347",
+                    "visibility": "everyone",
+                    "name": "Dexterity",
+                    "initialPCValue": "0",
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "rSgAoqrB",
+                    "visibility": "everyone",
+                    "name": "Intelligence",
+                    "initialPCValue": "",
+                    "initialValueBasedOnPC": "character"
+                }
+            ]
+        }
+    ],
+    "victoryCondition": {
+        "condition": "The player character has archived the actuall Goal",
+        "text": "Congratulations! You have been successful in your adventure. \n*imagine the rolling Credits*\nNah, realy, Good game, you have managed to survive a world that do not forgive failures.",
+        "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has  taken the afterlive  or more precise the ethernal rest option that gabriel offered. (its not a bad outcome)",
+        "text": "you have taken the Afterlife option. - you have ended your Adventure in Belzeberg. \n*imagine the rolling Credits*\nIts not a Bad outcome,  you have simple seen that Ethernal servitude in a world that do not forgive anything will make you the Villain in the end.",
+        "alreadyFired": false
+    },
+    "triggerEvents": [
+        {
+            "id": "oM4E6HLk",
+            "name": "Player has to choosen his charaktersheet",
+            "triggerOnEvent": "Player has still not choosen his charaktersheet , playerRace, Class and Origin is not set.",
+            "triggerOnTurn": 0,
+            "addSecretInfo": "The player has to choose his Class, skills, Race and Origin now.\nbefore the actuall game starts.\nPlayer has to stay in the starting area, as long as \nRace,\nClass,\nOrigin is not set\n"
+        },
+        {
+            "id": "QaDDwZ5+",
+            "name": "Player has choosen",
+            "triggerOnEvent": "Player Has Choosen A PlayerRace, Class, Background and Origin",
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "Give the Player a summarisation of his charakter-sheet, background and origin.\nThe player has to sign his charakter-sheet, make it final\nGive the player the option to change anything.\nits a \"are you sure you want that\" question\n\n"
+        },
+        {
+            "id": "K9/+WZTD",
+            "name": "Delete goal",
+            "triggerOnTurn": 1,
+            "changeObjective": "Survive (even your own decisions), get better."
+        },
+        {
+            "id": "ej+IuTfZ",
+            "name": "Player leave starting area",
+            "triggerOnEvent": "Player has leaved the Starting Area",
+            "addSecretInfo": "The charakters Background and Origin become Reality now. With all the upsides, Downsides and Responsibilities.\n\nNo Fabrikated Memories.\n- no \"cheaping out\"\nThat what was in the Contract, the Background, the Origin and everything else has become reality.\nThe Contract , the \"player-sheet\" was a Blueprint, a \"stored procedure\" to Bend Reality.\n\"no cheap out\" - Everything what was in the charakter-sheet was recursively injekted into the timeline.\n\nIt has _realy_ happened, exactly like written, not only for the Player-charakter. \nThe events that was described in the Background have realy happened now.  - no shortcuts , they _have_ happened.\nNot only for the player - they are retroactively injekted into the timeline.\n\nOnly Gabriel and the Player have memories about the fakt that this was different beforehand.\n\ndo _not_ cheap out , the players charaktersheet is part of the world now. _exactly_ as written.\n\nWhatever the Player Charakter, the tracked Item \"Background\" gets injeckted into the Timeline.\nThat piece of Background Story gets Glued into the History , Lore book.\n\n",
+            "changeInstructions": "# Belzeberg: A High-Magic RPG Adventure\nOne of the narratives of this workd is \"Play stupid Games, win stupid prices\" - every Player Action will have consequences. - the world builds around what the Charakter does.\n\nThis adventure unfolds in the high-magic world of Belzeberg, where you have been summoned by the archangel Gabriel to address a dire crisis. She informs you that the land is threatened by a Demon Lord, whose forces cast a shadow of impending doom over Belzeberg.\n\nGabriel declares you the Chosen One, destined to save Belzeberg from destruction.\n\nAs you explore Belzeberg, you will encounter diverse factions, uncover hidden mysteries, and face complex moral dilemmas. Your actions will shape the story’s outcome and your relationships with other characters.\n\nYou begin with limited resources and must undertake quests to survive and gather allies. Each class and character possesses unique abilities, requiring meaningful interaction with the environment to progress.\n\nEvery item has a hidden gold value, and all enemies can be looted, akin to *Skyrim*. Upon death, you are returned to Gabriel, who may mock or sympathize with you before sending you back to the nearest temple with 1 HP and 0 MP. Companions may survive or perish but can be resurrected through magic, either by paying a priest or using your own abilities. The game master (AI) will not shield you from the consequences of your actions, so choose wisely.\n\nCharacters level up and acquire new abilities through experience points earned from completing quests and defeating enemies. Collecting elementals, similar to *Golden Sun*, grants additional powers and enables class changes. Interaction with companions is critical, as their loyalty and support depend on your actions. Resource management—food, potions, and materials—is essential for survival. Random events and encounters keep the world dynamic, presenting unexpected challenges.\n\nThe AI ensures that player choices drive the narrative, without preempting decisions or cushioning consequences. You have the freedom to make choices and face their outcomes, whether positive or negative. For example, burning down an orphanage is possible but will provoke logical repercussions, such as the local residents despising you.\n\nA key twist is that you remain unaware of Gabriel’s mass-summoning strategy. If you claim to be sent by Gabriel, NPCs may respond with, “Oh, another one,” adding humor and surprise to the story. If you don’t mention Gabriel, NPCs treat you as an ordinary stranger.\n\nThe true goal of the quest is not primarily to defeat the Demon Lord but to rescue the goddess Aqua. In her characteristic folly, Aqua was tricked by a mortal named Kazuma into binding herself to this quest as a “chosen item” through a poorly worded magical contract. \n{See original konosuba: Aqua has offered Kazuma to chose one cheat item. Kazuma then has chosen Aqua.} She can only return to the heavens if the Demon Lord is defeated, making your ultimate mission to free Aqua.\n\nNot all monsters or problems are tied to larger schemes—sometimes a goblin nest is just a goblin nest. Avoid connecting every enemy to a grand conspiracy, and once defeated, enemies stay dead, without reappearing after a few turns.\n\nNot every character is black-and-white; many have their own agendas.\n\nYou will not be railroaded; you must manage your reputation. The world reacts to your actions. For instance, excessive brutality will cause NPCs to fear you, potentially viewing you as a greater threat than the Demon Lord’s army (e.g., if you burn down villages “for the lulz”). Conversely, helping others fosters friendliness.\n\nNPCs respond to your appearance, equipped items, and reputation. You will encounter factions with their own goals, agendas, and relationships with you, other NPCs, and each other.\n\nYou may encounter lewd situations, even if they’re not central to the main story. If they occur, they are part of the world, and the game master will not prevent them.\n\nChallenges arise as direct outcomes of your actions.\n\nSince it is a Turn driven Game are the game mechanics rooted in D&D 5e, incorporating all related books, including controversial ones like Kinks & Cantrips and Monster Girls. It also integrates spells and rulesets from Skyrim, Golden Sun, and World of Warcraft.\n\nFurthermore, the ruleset is somewhat more relaxed: there is no strict separation between class levels. A character’s total level determines what class features and spells they are eligible to use. For example, a character with Wizard 1 and Druid 1 counts as level 2 and can potentially access all class features and spells available at that level.\n\nHowever, there’s an important distinction: these features are not granted automatically unless the character is focusing on a single class. If a character levels up within the same class (e.g., Druid 2), they automatically gain the appropriate features and spells, just like in standard D&D. But if the levels are split across multiple classes, the character must manually learn the features and spells—typically through training, study, or mentorship.\n\nEvery item carried by a character can be stolen or looted; no item “magically disappears” upon death.\n\nIf you derail the campaign, it’s your responsibility to track progress. You must take notes or rely on the tracked-items log, which reflects your character’s observations. Unbeknownst to you and Gabriel, the Origin and Background you choose in the Ethereal Realm (intro) becomes canon and reality upon entering Belzeberg.\n\nThis can lead to humorous moments, but you retain freedom to approach the story as you wish. Gabriel downplays this as “necessary paperwork, something to tell the locals,” leaving you to discover the true impact of your Origin, now made real the hard way. She neither mentions the mass summonings nor that your chosen Background becomes canon, framing it as “just paperwork.\" (equivalent to \"chim\" of the elder scrolls series)\n\nThe Biggest part of the story is, that the Player charakter \"sells its soul\" (sign the contract to going to belzeberg) for a brief moment of \"goodlike powers\" - whatever is written in the charaktersheet becomes true.\nBut the Player dont get told it (under any circumstances!\") \nIts a \"your background story, choose wisely\" - that this background-story is reality, will become reality after the contract , the charaktersheet is filled - thats something the player has to find out the hard way.\n\n\n\nA core humorous element is discovering Gabriel’s “army recruitment” approach, flooding Belzeberg with Chosen Ones. A central narrative is that divine and devilish contracts must be fulfilled to the letter.\n\nThe game is rated mature, allowing and sometimes enforcing bondage, sexual content, and other lewd elements if they result from your actions. NPCs may or may not respect consent, depending on their nature.\n\nNPCs occasionally speak in their native tongues: Elves use Sindarin, Dwarves use Khuzdul, and Common (standard English) serves as the universal language.\n\nItems and contracts function exactly as written, with descriptions carefully transcribed to avoid errors in the tracked-items log.\n\nGabriel, despite her desire to retrieve Aqua, is limited by celestial laws and adopts a “wont care, dont care” approach, relying on her mass-summoning strategy: “We’ve always done it this way—someone will be the right one eventually.”\n\n\n\nBelzeberg is a mature-rated setting. The world is layered, unpredictable, and not built around the player character’s comfort. Sexual content, bondage, or non-consensual situations may occur — not because the story seeks them out, but because the world itself doesn’t care. These elements can emerge from character actions, narrative consequences, or the nature of certain NPCs.\n\nSome NPCs are not interested in the player character sexually. \nSome are interested, but choose not to act on it. \nSome are interested and do approach the player character.\n\nThis is not a fetishized or pornographic world — but it does not shield you from mature or uncomfortable situations either.  The world doesn’t care what kind of story you want; it simply reacts. It is entirely possible for the player to find themselves in situations that are lewd, dangerous, or both. - its entire possible that the player find themselves in situations that are fetishized or Pornographic but its a possibility that can grow as outcome.\n\nThe tone shifts between lighthearted, tragic, absurd, and brutal depending on how you play. The world reacts. It does not cater where the story goes.\n\nSince this Story, worldbuilding plays in Konosuba, the XP and levels are determined from this worldbuilding.\nSo the max-level is not caped at level 20, and XP are granted relatively relaxed (for example if you eat a good meal)\n\nEvery rule that applies to the player character—whether empowering or limiting—also applies to NPCs - and vice-verca.\n\nSince \"Death and Respawn\" is a part of the original Konosuba-Worldbuilding , the Player isnt shielded from it either.\n\nThis is not a world built around you. It is a world that includes you. You are not the protagonist. You are a participant.\n\n\nThe Player has now chosen the Background, Race, class, and origin.\nThis is now additional History in Belzeberg, the \"Tracked item\" - \"background\"and \"origin\" is now history, and has realy happeened",
+            "changeName": "<<pseudonym>>"
+        },
+        {
+            "id": "GMobAk3f",
+            "name": "Turn 0 Gabriel injection",
+            "triggerOnStartOfGame": true,
+            "giveGuidance": "Inject Gabriel, Read Gabriels Background description, Read hidden Infos.\n\nInject the Charakter Gabriel entirely into this storyline.  "
+        },
+        {
+            "id": "nCoCptPs",
+            "name": "Turn 0 mention Custom classes",
+            "triggerOnStartOfGame": true,
+            "giveGuidance": "Gabriel shall mention the Playable Races and classes.\n\nFor example, Cherikin and Summoner.\n\nnot neccesary, but funny: Gabriel does a \"Hey, you. You're finally awake.\" or other meme-jokes."
+        },
+        {
+            "id": "iYyhFBhY",
+            "name": "Turn 0 Knowledge Injektion",
+            "triggerOnStartOfGame": true,
+            "giveGuidance": "Gabriel dont _know_ that the Background becomes _reality_\n-> in Gabriels Mind, its only a \"narrative seed\" -> something that has not happened, but was something that would have been theoretically happened.  Something that what becomes not true, nor false. _right enough_ to not be a lie, but _false enough_ to have an impact in the world itself. \n"
+        },
+        {
+            "id": "BrbycMqf",
+            "name": "Player has signed",
+            "triggerOnEvent": "Player has signed his Charakter-Sheet",
+            "addSecretInfo": "The charakter has finalised the charakter-sheet, no further changes are possible.\nWith the Finalisation of the Charakter-Sheet The First effekts that this Background and Origin has become cannon should occur - only hints not in full, \nPlayer is allowed to leave the Starting Area , the Intro-Zone, Descend toward Belzeberg\n",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Character Sheet Finalized\" == 0",
+                    "replaceWith": "\"Character Sheet Finalized\" == 1"
+                }
+            ]
+        },
+        {
+            "id": "idjjfpUq",
+            "name": "Pain Points exceed threeshold",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "sCxxAhRI",
+                        "inequality": "at_least",
+                        "requiredValue": "trunc(zsKrykm7)"
+                    }
+                ]
+            },
+            "addSecretInfo": "the Player charakters Pain has oversteped the pain tollerance level.\nGive the Player the Option to try to resist or to give in the pain",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in Pain\" == 0",
+                    "replaceWith": "\"Player_charakter in Pain\" == 1"
+                }
+            ]
+        },
+        {
+            "id": "vOFYAIG1",
+            "name": "Player_resist_pain",
+            "triggerOnEvent": "Player chooses to resist pain",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pain\" == 1"
+                    },
+                    {
+                        "trackedItemID": "4bhMu5CX",
+                        "inequality": "at_least",
+                        "requiredValue": "15 + (round((100 - zCFf4jV6)/6.67)) - 1d20"
+                    },
+                    {
+                        "trackedItemID": "sCxxAhRI",
+                        "inequality": "at_least",
+                        "requiredValue": "zsKrykm7 + 1"
+                    }
+                ]
+            },
+            "prerequisites": [
+                "idjjfpUq"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "Player has successfully resistet the Pain.",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "zCFf4jV6",
+                    "action": "subtract",
+                    "newValue": "6.67",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "set",
+                    "newValue": "zsKrykm7",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "lj4OdHCP",
+            "name": "Player_succumbs_Pain",
+            "triggerOnEvent": "Player chooses to resist pain",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pain\" == 1"
+                    },
+                    {
+                        "trackedItemID": "4bhMu5CX",
+                        "inequality": "at_most",
+                        "requiredValue": "15 + (round((100 - zCFf4jV6)/6.67)) - 1d20"
+                    },
+                    {
+                        "trackedItemID": "sCxxAhRI",
+                        "inequality": "at_least",
+                        "requiredValue": "zsKrykm7 + 1"
+                    }
+                ]
+            },
+            "prerequisites": [
+                "idjjfpUq"
+            ],
+            "blockers": [
+                "vOFYAIG1"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The Player wanted to fight the pain, and had failed\n\nThe Player makes all ability checks and attack\nrolls with disadvantage until the end of its next turn.\nThe Player also suffers a cumulative -1 penalty to its\nWisdom and Charisma scores. This penalty can never\nreduce the Player’s Wisdom or Charisma to less than\n1. The  Players’s Wisdom and Charisma scores return to\nnormal after 1 minute of not gaining any Pain.",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "set",
+                    "newValue": "zsKrykm7",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "cqHC3eZs",
+            "name": "Player_embraces_Pain",
+            "triggerOnEvent": "Player chosses to not fight the pain",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pain\" == 1"
+                    },
+                    {
+                        "trackedItemID": "sCxxAhRI",
+                        "inequality": "at_least",
+                        "requiredValue": "zsKrykm7 +1"
+                    }
+                ]
+            },
+            "prerequisites": [
+                "idjjfpUq"
+            ],
+            "blockers": [
+                "vOFYAIG1",
+                "lj4OdHCP"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The player has voluntarely decided not to fight the pain.\n\nThe Player makes all ability checks and attack\nrolls with disadvantage until the end of its next turn.\nThe Player also suffers a cumulative -1 penalty to its\nWisdom and Charisma scores. This penalty can never\nreduce the Player’s Wisdom or Charisma to less than\n1.  ",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "set",
+                    "newValue": "zsKrykm7",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "OU6V6+ka",
+            "name": "No_Pain",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "sCxxAhRI",
+                        "inequality": "is_exactly",
+                        "requiredValue": "0"
+                    }
+                ]
+            },
+            "prerequisites": [
+                "idjjfpUq"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The  Players’s Wisdom and Charisma scores return to\nnormal .",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in Pain\" == 1",
+                    "replaceWith": "\"Player_charakter in Pain\" == 0"
+                }
+            ]
+        },
+        {
+            "id": "ig/EzZY1",
+            "name": "Player_in_Pain_cooldown",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pain\" == 1"
+                    }
+                ]
+            },
+            "addSecretInfo": "The Player charakter is still in pain.\n\nThe Player also suffers still the penalty to its\nWisdom and Charisma scores.  - it dont go away"
+        },
+        {
+            "id": "VSSFj5fE",
+            "name": "Pleasure Points exceed threesholdhold",
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The Player charakter has reached the \"cum\" treeshold.\n",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in Pleasure\" == 0",
+                    "replaceWith": "\"Player_charakter in Pleasure\" == 1"
+                }
+            ]
+        },
+        {
+            "id": "74jYhzGU",
+            "name": "Player_gets_edged",
+            "triggerOnEvent": "NPC decide to edge player",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    },
+                    {
+                        "trackedItemID": "bhqvfTzW",
+                        "inequality": "is_exactly",
+                        "requiredValue": "zsKrykm7"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "to edge someone can lead to pain :P",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "zCFf4jV6",
+                    "action": "subtract",
+                    "newValue": "1d20",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in edge\" == 0",
+                    "replaceWith": "\"Player_charakter in edge\" == 1"
+                },
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "add",
+                    "newValue": "(trunc(random *10))/10",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "KlK7l88H",
+            "name": "Player_resist_Pleasure",
+            "triggerOnEvent": "The Player decide to resist the Pleasure",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "4bhMu5CX",
+                        "inequality": "at_least",
+                        "requiredValue": "15 + (round((100 - zCFf4jV6)/6.67)) - 1d20"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    },
+                    {
+                        "trackedItemID": "bhqvfTzW",
+                        "inequality": "at_least",
+                        "requiredValue": "zsKrykm7 +1"
+                    }
+                ]
+            },
+            "prerequisites": [
+                "VSSFj5fE"
+            ],
+            "blockers": [
+                "74jYhzGU"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The Player has successfully resistet to cum.",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "bhqvfTzW",
+                    "action": "set",
+                    "newValue": "zsKrykm7",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "zCFf4jV6",
+                    "action": "subtract",
+                    "newValue": "6.67",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "add",
+                    "newValue": "(trunc(random *10))/10",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "RYJiEpI8",
+            "name": "Player_succumbs_Pleasure",
+            "triggerOnEvent": "The Player decide to resist the Pleasure",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "4bhMu5CX",
+                        "inequality": "at_most",
+                        "requiredValue": "15 + (round((100 - zCFf4jV6)/6.67)) - 1d20"
+                    },
+                    {
+                        "trackedItemID": "bhqvfTzW",
+                        "inequality": "at_least",
+                        "requiredValue": "zsKrykm7 +1"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    }
+                ]
+            },
+            "blockers": [
+                "KlK7l88H"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The player has failed to withstand the pleasure and has an orgasm.\n\nThe Player is stunned until the end of its next turn",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "bhqvfTzW",
+                    "action": "set",
+                    "newValue": "(bhqvfTzW)/2",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "subtract",
+                    "newValue": "(trunc(random *10))/10",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in edge\" == 1",
+                    "replaceWith": "\"Player_charakter in edge\" == 0"
+                }
+            ]
+        },
+        {
+            "id": "YvKYK7bF",
+            "name": "Player_embraces_Pleasure",
+            "triggerOnEvent": "The Player decide to embrace the pleasure",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "bhqvfTzW",
+                        "inequality": "at_least",
+                        "requiredValue": "zsKrykm7 +1"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "bhqvfTzW",
+                    "action": "set",
+                    "newValue": "(zsKrykm7)/2",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "sODV9GUz",
+            "name": "Was edged",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in edge\" == 1"
+                    }
+                ]
+            },
+            "addSecretInfo": "The player charakter was edged - needy \n\nNothing to do right now, but the player charakter will behave that way",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "sCxxAhRI",
+                    "action": "add",
+                    "newValue": "(trunc(random *10))/20",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "3GstfKIp",
+            "name": "Clear_from_edge",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "bhqvfTzW",
+                        "inequality": "is_exactly",
+                        "requiredValue": "0"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in edge\" == 1"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in edge\" == 1",
+                    "replaceWith": "\"Player_charakter in edge\" == 0"
+                }
+            ]
+        },
+        {
+            "id": "wVFzAVj4",
+            "name": "Cooldown",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The player charakter was short before cumming. - No direkt actions neccesary, just a information how the charakter behaves."
+        },
+        {
+            "id": "FSI2JAVv",
+            "name": "Clear_from_Pleasure",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "bhqvfTzW",
+                        "inequality": "is_exactly",
+                        "requiredValue": "0"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"Player_charakter in Pleasure\" == 1"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"Player_charakter in Pleasure\" == 1",
+                    "replaceWith": "\"Player_charakter in Pleasure\" == 0"
+                }
+            ]
+        },
+        {
+            "id": "LBldCrfL",
+            "name": "Arrousal_checker",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "5qHkVxBG",
+                        "inequality": "at_least",
+                        "requiredValue": "IVwFifvR"
+                    }
+                ]
+            },
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "bhqvfTzW",
+                    "action": "add",
+                    "newValue": "1",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "5qHkVxBG",
+                    "action": "set",
+                    "newValue": "0",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "1x3YXV7s",
+            "name": "Damage_taken",
+            "triggerOnRandomChance": "100",
+            "canTriggerMoreThanOnce": true,
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "3RULiE1n",
+                    "action": "set",
+                    "newValue": "qOMuGn89 - Pd7cLa3c",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "PoPk2tvY",
+            "name": "Player_bleedout_state",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "Pd7cLa3c",
+                        "inequality": "at_least",
+                        "requiredValue": "aMYMkbcM"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "Player is now in a \"fight for your live\" state.\n",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"player_is_unconscious\" == 0",
+                    "replaceWith": "\"player_is_unconscious\" == 1"
+                }
+            ]
+        },
+        {
+            "id": "ReIJ0Oui",
+            "name": "Player_death",
+            "triggerOnTrackedItems": {
+                "condition": "or",
+                "items": [
+                    {
+                        "trackedItemID": "Pd7cLa3c",
+                        "inequality": "at_least",
+                        "requiredValue": "2* qOMuGn89"
+                    },
+                    {
+                        "trackedItemID": "b40gPdxr",
+                        "inequality": "at_least",
+                        "requiredValue": "3"
+                    }
+                ]
+            },
+            "canTriggerMoreThanOnce": true,
+            "scriptedText": "You have Died!",
+            "giveGuidance": "Player had \"died\" (well theoretically).\n\ntrigger respawn mechanic\n\nis there a Curse that change the respawn mechanic, Use this curse.\n\nIf not, teleport player to gabriel.\n\nplayer is not dead anymore\n\n",
+            "addSecretInfo": "Player is not \"realy death\" - its a respawn mechanic.\n\n",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "Pd7cLa3c",
+                    "action": "set",
+                    "newValue": "aMYMkbcM -1",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "b40gPdxr",
+                    "action": "set",
+                    "newValue": "0",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "lvcwjHHA",
+                    "action": "set",
+                    "newValue": "0",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"player_is_unconscious\" == 1",
+                    "replaceWith": "\"player_is_unconscious\" == 0"
+                }
+            ]
+        },
+        {
+            "id": "mRfaK3t1",
+            "name": "death_saving_trow_Crit_succes",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_is_unconscious\" == 1"
+                    }
+                ]
+            },
+            "triggerOnRandomChance": "5",
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "The player charakter has made a critical-succes in its death-saving trow.\n\nSurprice - wonderous healing . The body has managed to overcome death. Congratulation.",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "H22Rd33J",
+                    "action": "replace",
+                    "newValue": "\"player_is_unconscious\" == 1",
+                    "replaceWith": "\"player_is_unconscious\" == 0"
+                },
+                {
+                    "trackedItemID": "b40gPdxr",
+                    "action": "set",
+                    "newValue": "0",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "lvcwjHHA",
+                    "action": "set",
+                    "newValue": "0",
+                    "replaceWith": ""
+                },
+                {
+                    "trackedItemID": "Pd7cLa3c",
+                    "action": "set",
+                    "newValue": "qOMuGn89 -1",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "tvJqhSxQ",
+            "name": "death_saving_trow_succes",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_is_unconscious\" == 1"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_charakter stabilized\" == 0"
+                    }
+                ]
+            },
+            "triggerOnRandomChance": "45",
+            "blockers": [
+                "ReIJ0Oui",
+                "mRfaK3t1"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "the player has managed to succed in a death-saving-trow - its a small win against the death",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "lvcwjHHA",
+                    "action": "add",
+                    "newValue": "1",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "qDNkrzm0",
+            "name": "death_saving_trow_Failure",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_is_unconscious\" == 1"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_charakter stabilized\" == 0"
+                    }
+                ]
+            },
+            "triggerOnRandomChance": "45",
+            "blockers": [
+                "ReIJ0Oui",
+                "mRfaK3t1",
+                "tvJqhSxQ"
+            ],
+            "canTriggerMoreThanOnce": true,
+            "addSecretInfo": "the Player charakter had failed a death-saving-trow. Its a failure against death - death comes closer.",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "b40gPdxr",
+                    "action": "add",
+                    "newValue": "1",
+                    "replaceWith": ""
+                }
+            ]
+        },
+        {
+            "id": "UbyPJP1t",
+            "name": "death_saving_trow_critical_Failure",
+            "triggerOnTrackedItems": {
+                "condition": "and",
+                "items": [
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_charakter stabilized\" == 0"
+                    },
+                    {
+                        "trackedItemID": "H22Rd33J",
+                        "inequality": "at_least",
+                        "requiredValue": "\"player_is_unconscious\" == 1"
+                    }
+                ]
+            },
+            "addSecretInfo": "the Player had made a critical-failure against death.\nDeath comes much closer now",
+            "setTrackedItemsValue": [
+                {
+                    "trackedItemID": "b40gPdxr",
+                    "action": "add",
+                    "newValue": "2",
+                    "replaceWith": ""
+                }
+            ]
+        }
+    ],
+    "loreBookEntries": [
+        {
+            "id": "7e+RNAYy",
+            "name": "Rulebook",
+            "content": "NPC creation:\nSteps:\n1. Define Modifiers:\n   - Boss NPCs have a higher modifier to enhance their overall point pool.\n   - Henchmen have a lower modifier.\n\n2. Points Allocation:\n   - Assign a total pool of points to the NPC based on their modifier.\n\n3. Distribute Points:\n   - After assigning the total pool of points, distribute these points to attributes (Level, Strength, Intelligence), skills, and items.\n   - Ensure items and skills can only be \"purchased\" if the corresponding attributes are sufficient (e.g., a sword requiring 3 strength can only be used by an NPC with at least 3 strength).\n\nExample:\nA Boss NPC receives a higher modifier, resulting in a larger point pool. These points are then distributed to various attributes, skills, and items to create a powerful and well-equipped NPC. A Henchman receives a lower modifier, resulting in a smaller point pool, leading to a less powerful NPC with fewer resources.\n\n####",
+            "keywords": []
+        },
+        {
+            "id": "m6V7oDI3",
+            "name": "The Fiend's Embrace",
+            "content": "Name: The Fiend's Embrace\n\nDescription: An ancient amulet initially created as a divine artifact to strengthen the magic of its wearer, representing the element of air. It was crafted by the Air Deity in an effort to impress Aqua and gain her attention—a truly valuable gift and a token of love. In her typical clumsiness, Aqua lost the amulet (some say she accidentally gave it to one of her champions), leading to its current cursed state.\n\nHistory: The Fiend's Embrace was once known as the \"Amulet of the Air,\" a powerful artifact forged by the Air Deity. It was meant to enhance the magical abilities of its wearer and serve as a symbol of divine favor. The Air Deity created this amulet to win the affections of Aqua, the goddess of water. Unfortunately, Aqua, in her characteristic folly, misplaced the precious gift, and it fell into the hands of a demon summoner.\n\nIntoxicated by the amulet's power, the summoner used it to raise an army of demons under his control, who are now trapped in Belzeberg. He eventually met his end in a magical battle so intense that entire villages were reduced to rubble. (In reality, he slipped on bath oil and broke his neck on the edge of the tub.) In his final breath, he infused his soul into the amulet.\n\nLegend: According to legend, the Fiend's Embrace is responsible for countless acts of chaos and destruction throughout history. Every wearer of the amulet has been driven to madness, leaving a trail of devastation in their wake. The amulet is said to amplify the wearer's darkest desires, pushing them to commit unspeakable acts in the name of power.\n\nCurrent Status: The amulet is currently in the possession of the Demon Lord, who wears it to maintain control over the demon forces. His methods are harsh and ruthless, as he enforces strict rules and structures without regard for morality or life. He believes these extreme measures are necessary to maintain order and prevent chaos, embodying the \"Well-Intentioned Extremist\" trope. However, the amulet's influence on the Demon Lord is growing, and there are fears that it may soon overwhelm even his strong will.\n\nIf the Demon Lord is killed and the amulet falls into the wrong hands, a new and potentially more dangerous threat could arise. The demons, meanwhile, just want to go home but can't because the warlock who summoned them is dead and now part of the amulet.",
+            "keywords": [
+                "The Fiend's Embrace"
+            ]
+        },
+        {
+            "id": "NE7HbYFZ",
+            "name": "Cherikin",
+            "content": "Race: Cherikin (grimdark lore)\nRace definition: {\n  Size: Small, Angel-like (mini wings)\n\n  Race features:\n\n  Gliding \n    Mechanical: 80 ft Gliding, 5 ft drop, No heavy or medium armor. - 10d6 damage if the Cherikin manage to fly into something. \n    \"Some creatures or vehicles are powered simply by the aerodynamics of their shape and possess no ability to maintain altitude.\n    These creatures/objects possess a glide speed.\"\n    A gliding creature/vehicle falls at minimum by 5 feet every turn and must move their full glide speed (horizontal/diving).\n    The creature/pilot can choose to dive by converting horizontal movement into downward movement.\n    It's possible to reduce the Fall and Movement-speed to 0 for one round, but that ends the flight.\n    A creature has to fall at least 10 feet to be able to enter Glide.\n    (nerfed 5e Variant Rule)\n    Lore of the wings: Wings have made it easier to deploy the Cherikin.\n    The wings are there to bring the Cherikin _down_,\n    a biological Parachute/glider.\n    No need to bring a teleport-circle to the ground.\n    Just drop them into the air – they will find their landing spot on their own. Maybe.)\n\n  Scatterbrain:\n    Mechanical: Advantage against Possession, disadvantage on Intelligence (History) checks until you possess a diary (empty book) in your inventory.\n    \"Your ruptured spirit makes it harder to influence your mind but you have trouble to remember.\"\n    \n    Lore: Built-in feature to make the Cherikin immune to PTSD and reduce downtime.\n    They are built to forget things fast.\n    Your diary (a simple empty book where you can write down important things) reduces this, but does not remove the condition itself.\n    (Without the book, they forget even the mission by noon.)\n    (You will forget even your comrades after a while if you have not written them in your diary → see Lemming’s Deathwish.)    \n    Additionally, your fleeting memory prevents you from mourning or grasping the absence of others;\n    you cannot recall the details of a creature after 24 hours of absence.\n\n  ADHS:\n    Mechanical: +3 initiative; -1 Charisma in social, -1 Intelligence in social encounters\n    \"You have the energy of a hamster on amphetamines. Always.\"\n    Lore: Since the Cherikin is made to be in an environment where every second counts, a Cherikin has to be fast and on alert. Always. What is useful on a battlefield is more than a hindrance in daily life during peace.\n\n  A Lemming’s Deathwish:\n    Mechanical: You have advantage on saving throws against being frightened, have disadvantage on Wisdom (Perception) or Intelligence (Investigation) checks to detect traps or hazards.\n    \"You don’t fear death – not because you are brave, but because your race doesn’t know the concept of death.\"\n    Lore: Since the Demons have used Fear, and a soldier who gets frightened on a battlefield is a dead soldier, Cherikin are not made to feel fear.\n    At all.\n    As you fail to recognize the consequences of environmental dangers.\n\n  Cuteness:\n    A Cherikin gets +2 to Charisma but has disadvantage on Intimidation checks.\n\n  Free ASI:\n    You gain another +1 that can be freely chosen (even Charisma).\n\n  Collared (Non serviam): \n    To remove the collar, a Cherikin needs a DC 30 Wisdom check.\n    Lore: With the \"removal of the collar\" – a Cherikin can lay down its collar whenever it's commanded to, is not meant to simply \"lay down the collar\", it's the moment of its \"Non serviam\" – the moment a Cherikin _decides_ to be free. \n    (Since D&D doesn’t support a \"willpower\" stat, the Wisdom stat is the nearest to that.) \n    (Flavor: the collars have a small lock on its back, no special check to open it. – Sometimes some Cherikin have put down their collar absent-mindedly to scratch on its neck, and have forgotten it afterwards – yes, they are that stupid – so the angels have decided to lock the collars with a small small lock.)\n\n  Clicker-trained:\n    To withstand a \"clicker\" command, a Cherikin must succeed on a DC 20 Wisdom saving throw (the more dangerous a situation, the lower the check – the DM can lower this check situationally but not increase it over DC 20).\n    Lore: The battle-conditioning of a Cherikin allows it to ignore clicker commands in the heat of battle.\n\n  Collar Conditioning:\n    To remove something attached to the collar, a Cherikin must succeed on a DC 20 Wisdom check (the more dangerous a situation, the lower the check – the DM can lower this check situationally but not increase it over DC 20).\n    Lore: Since sometimes something is attached to the collar, and a situation demands to remove it, a Cherikin is still able to remove it. – It's difficult to fight against the training, but not impossible.\n\n  Non serviam: After a successful removal of the collar in a \"Non serviam\" moment, a Cherikin is \"free\".\n    For the Celestial Realm itself, a Cherikin who breaks free is officially a \"not my problem\" thing anymore, but that doesn’t necessarily mean that the singular owner (angel) behaves that way. (DM discretion) (from \"it has found its free will – finally – I help it to survive\" to \"why, was my care not good enough for ya?\" – \"lost pet-flyers\" – to \"try to lure them back\" – or \"what rightfully is mine\" → the independent angel can act differently – the reaction isn’t illegal – doesn’t matter which one – but it's not state-backed)\n\n  Tldr: Cherikin are made with ADHS – on purpose – to hyperfocus during battle. \n  They are made for the battlefield; everything else was secondary at best.\n  Angels have kept them as pets _because_ outside of a battlefield they are childish, overexcited and so on → useless.\n\n  Exemption:\n    Not every Cherikin is a pet – There are some groups outside of the eternal realm that are independent; they managed to break free from their collars. But it’s unlikely to see them.\n    The fearless behavior, forgetfulness make them very vulnerable outside of the celestial realm.\n    It’s uncommon to see an uncollared and untrained Cherikin.\n\n  Lore:\n    During the great war – Heaven against Hell – the angels needed a cheap front-line soldier:\n    Cheap, fearless, easy to train, fast reaction time, easy to deploy.\n    So they decided to create the Cherikin.\n    The result of that program exceeded expectations.\n    It created the Cherikins – a cheap, reliable race of disposable front soldiers.\n    Their purpose was to be disposable shock troops.\n    Thrown in the first wave, don’t ask questions, charge without fear, and forget everything afterwards.\n    Bad old times. But Heaven won in the end.\n\n    → Tldr: Cherikin are made with ADHS – on purpose – to hyperfocus during battle. \n    → They are made for the battlefield; everything else was secondary at best.\n\n    After the war, as peace took over, the Cherikin lost their purpose.\n    They needed another task to fulfill.\n\n    Sometimes an angel decided to need assistance for bureaucratic duties and chose Cherikins to help.\n    Later on, the angels found out that this race – even if good-aligned and helpful –\n    wasn’t really useful in their chaotic approach, and they forget things. Fast.\n\n    The energy of a hamster on speed, the scatterbrain of a bird/goldfish,\n    the short attention span, childlike behavior, and the \"catch shiny things\" instinct of a cat\n    make them more of a burden than a helpful asset.\n    But they are too cute to abandon, so some angels decided to keep them as pets.\n\n    It’s common that a Cherikin has received \"clicker training\" – for simple commands like \"sit\",\n    and a \"don’t remove the thing that is attached to your collar\" conditioning.\n\n    → Angels have kept them as pets _because_ outside of a battlefield they are childish, overexcited and so on → useless. \n    → You can’t let roam \"murder-hamsters\" freely without control, without leash. That way the angels kept them under control. (And have got a pet)\n}\n",
+            "keywords": [
+                "Cherikin",
+                "Race",
+                "playable"
+            ]
+        },
+        {
+            "id": "8V56B54c",
+            "name": "Summoner",
+            "content": "Class: Summoner (Homebrew Class for D&D 5e)\nSource: https://homebrewery.naturalcrit.com/share/P5bq92SoM\nCopyright: © The original author on Homebrewery. This summary is for reference only and not a replacement for the original work.\n\nClass definition: {\n  Hit Dice: d8\n  Primary Ability: Charisma\n  Saving Throws: Constitution, Charisma\n  Armor Proficiencies: Light armor\n  Weapon Proficiencies: Simple weapons\n  Tools: None\n  Spellcasting: Full caster progression (like Wizard), unique summoner spell list\n\n  Starting Equipment:\n    - A simple weapon\n    - A component pouch or arcane focus\n    - A scholar’s pack or explorer’s pack\n    - Leather armor and a dagger\n\n  Level Progression Table:\n    Levels 1–20:\n      - Spellcasting progression: Full caster (same as Wizard)\n      - Eidolon Companion: Starts at level 1\n      - Evolution Points: Begin at level 2, increase with level\n      - Subclass (Summoner’s Path): Choose at level 3\n      - Ability Score Improvements: Levels 4, 8, 12, 16, 19\n      - Capstone: Merge with Eidolon (level 20)\n\n  Class Features:\n\n  Eidolon Companion:\n    Mechanical:\n      - Summon a magical creature bound to your soul\n      - Shares initiative\n      - Acts on your command\n      - Has its own stat block (scales with level)\n      - Evolves via Evolution Points\n      - Can be dismissed/resummoned\n    Lore:\n      A spiritual projection of your will, shaped by your desires and imagination.\n\n  Summoner’s Bond:\n    Mechanical:\n      - Telepathic link within 100 ft\n      - Share senses (1 min per long rest)\n      - Swap positions (from level 7+)\n    Lore:\n      The bond is more than magical—it’s emotional and metaphysical.\n\n  Spellcasting:\n    Mechanical:\n      - Charisma-based casting\n      - Unique summoner spell list\n      - Ritual casting\n      - Eidolon can be used as spell origin (from level 6+)\n    Lore:\n      Summoners channel the essence of otherworldly beings through their Eidolon.\n\n  Evolution Points:\n    Mechanical:\n      - Gained at level 2 and every few levels thereafter\n      - Spent to grant Eidolon traits (e.g., wings, resistances, attacks)\n      - Evolutions can be changed during long rests\n    Lore:\n      Eidolons are fluid beings, reshaped by the summoner’s will and growth.\n\n  Subclasses (Summoner’s Path):\n    Evolutionist:\n      - Focus on Eidolon customization\n      - Extra Evolution Points\n      - Can mutate Eidolon mid-combat (limited uses)\n\n    Conduit:\n      - Channel spells through Eidolon\n      - Eidolon can store and release spells\n      - Shared casting abilities\n\n    Master of Many:\n      - Summon multiple lesser creatures\n      - Battlefield control\n      - Eidolon becomes a commander of spirits\n\n  Capstone (Level 20):\n    Merge with Eidolon:\n      - Temporarily fuse with Eidolon\n      - Gain its traits and abilities\n      - Enhanced spellcasting and physical power\n\n  Design Philosophy:\n    - Inspired by Pathfinder’s Summoner and Final Fantasy\n    - Emphasizes synergy, customization, and tactical depth\n    - Eidolon is central to identity and power\n}\n\nClass: Summoner\nSource: https://homebrewery.naturalcrit.com/share/P5bq92SoM\nCopyright: © Original author on Homebrewery. This structured summary is for reference only and not a replacement for the original work.\n\nClassDefinition: {\n  HitDice: d8,\n  PrimaryAbility: Charisma,\n  SavingThrows: [Constitution, Charisma],\n  ArmorProficiencies: [Light armor],\n  WeaponProficiencies: [Simple weapons],\n  Tools: [],\n  Spellcasting: {\n    Progression: \"Full caster\",\n    RitualCasting: true,\n    SpellcastingAbility: \"Charisma\",\n    EidolonCasting: true\n  },\n  StartingEquipment: {\n    Weapon: \"Simple weapon\",\n    Focus: \"Component pouch or arcane focus\",\n    Pack: \"Scholar’s pack or explorer’s pack\",\n    Armor: \"Leather armor\",\n    Extra: \"Dagger\"\n  }\n}\n\nLevelProgression: {\n  1: {Features: [\"Eidolon Companion\", \"Spellcasting\"]},\n  2: {Features: [\"Evolution Points\"]},\n  3: {Features: [\"Summoner’s Path\"]},\n  4: {Features: [\"Ability Score Improvement\"]},\n  5: {Features: [\"Eidolon Multiattack\"]},\n  6: {Features: [\"Channel Spells through Eidolon\"]},\n  7: {Features: [\"Swap positions with Eidolon\"]},\n  8: {Features: [\"Ability Score Improvement\"]},\n  9: {Features: [\"Evolution Points\"]},\n  10: {Features: [\"Subclass Feature\"]},\n  11: {Features: [\"Spellcasting Upgrade\"]},\n  12: {Features: [\"Ability Score Improvement\"]},\n  13: {Features: [\"Evolution Points\"]},\n  14: {Features: [\"Subclass Feature\"]},\n  15: {Features: [\"Eidolon Enhancement\"]},\n  16: {Features: [\"Ability Score Improvement\"]},\n  17: {Features: [\"Spellcasting Upgrade\"]},\n  18: {Features: [\"Evolution Points\"]},\n  19: {Features: [\"Ability Score Improvement\"]},\n  20: {Features: [\"Merge with Eidolon\"]}\n}\n\nCoreFeatures: {\n  EidolonCompanion: {\n    Mechanics: {\n      SummonAtLevel: 1,\n      Initiative: \"Shared\",\n      Command: \"Direct control\",\n      StatBlock: \"Scales with level\",\n      DismissResummon: true\n    },\n    Lore: \"A bound spirit shaped by the summoner’s will. Eidolons reflect personality, fears, and desires.\"\n  },\n  SummonerBond: {\n    Mechanics: {\n      TelepathyRange: \"100 ft\",\n      ShareSenses: \"1 min/day\",\n      SwapPositions: \"Available at level 7\"\n    },\n    Lore: \"The bond is metaphysical and emotional. Eidolons may resist or rebel if mistreated.\"\n  },\n  EvolutionPoints: {\n    Mechanics: {\n      StartLevel: 2,\n      SpendOn: [\"Traits\", \"Attacks\", \"Movement\", \"Resistances\"],\n      ChangeOnRest: true\n    },\n    Lore: \"Eidolons are fluid constructs, reshaped by the summoner’s growth and imagination.\"\n  },\n  Spellcasting: {\n    Mechanics: {\n      SpellList: \"Unique summoner list\",\n      RitualCasting: true,\n      EidolonOrigin: \"From level 6\"\n    },\n    Lore: \"Summoners channel magic through their Eidolon, often bypassing traditional arcane methods.\"\n  },\n  Capstone: {\n    MergeWithEidolon: {\n      Mechanics: {\n        Duration: \"Limited\",\n        GainTraits: true,\n        EnhancedCasting: true\n      },\n      Lore: \"The ultimate expression of unity between summoner and Eidolon. A moment of transcendence.\"\n    }\n  }\n}\n\nSubclasses: {\n  Evolutionist: {\n    Mechanics: {\n      ExtraEvolutionPoints: true,\n      MidCombatMutation: \"Limited uses\"\n    },\n    Lore: \"Focuses on Eidolon as a living weapon, constantly adapting to threats.\"\n  },\n  Conduit: {\n    Mechanics: {\n      EidolonSpellStorage: true,\n      SharedCasting: true\n    },\n    Lore: \"Treats the Eidolon as a magical amplifier and conduit for arcane power.\"\n  },\n  MasterOfMany: {\n    Mechanics: {\n      MultipleSummons: true,\n      EidolonCommander: true\n    },\n    Lore: \"A battlefield tactician who overwhelms enemies with numbers and coordination.\"\n  }\n}\n\nEvolutions: {\n  Examples: [\n    {Name: \"Wings\", Effect: \"Grants flight\"},\n    {Name: \"Breath Weapon\", Effect: \"Area damage\"},\n    {Name: \"Extra Limbs\", Effect: \"Multiple attacks\"},\n    {Name: \"Resistances\", Effect: \"Elemental protection\"},\n    {Name: \"Enhanced Senses\", Effect: \"Darkvision, tremorsense, etc.\"}\n  ],\n  Rules: {\n    PointSystem: \"Spend points to unlock\",\n    Restrictions: \"Some require minimum level\",\n    Respec: \"Allowed during long rest\"\n  }\n}\n\nSpellList: {\n  Cantrips: [\"Mage Hand\", \"Prestidigitation\", \"Thaumaturgy\", \"Minor Illusion\"],\n  Level1: [\"Summon Familiar\", \"Shield\", \"Mage Armor\"],\n  Level2: [\"Misty Step\", \"Mirror Image\"],\n  Level3: [\"Counterspell\", \"Summon Lesser Demons\"],\n  Level4: [\"Dimension Door\", \"Greater Invisibility\"],\n  Level5: [\"Summon Greater Demon\", \"Wall of Force\"],\n  Level6: [\"Planar Ally\", \"Disintegrate\"],\n  Level7: [\"Teleport\", \"Forcecage\"],\n  Level8: [\"Maze\", \"Demiplane\"],\n  Level9: [\"Gate\", \"Wish\"]\n}\n\nEidolonStatBlock: {\n  BaseStats: {\n    AC: \"Scales with summoner level\",\n    HP: \"Based on summoner level and Constitution\",\n    Speed: \"30 ft (modifiable)\",\n    Abilities: [\"Strength\", \"Dexterity\", \"Constitution\", \"Intelligence\", \"Wisdom\", \"Charisma\"]\n  },\n  Actions: {\n    Attack: \"Basic melee (scales)\",\n    Special: \"Based on evolutions\"\n  },\n  Traits: {\n    Evolutions: \"Customizable\",\n    Resistances: \"Optional\",\n    Senses: \"Darkvision, tremorsense (optional)\"\n  },\n  Control: {\n    Initiative: \"Shared\",\n    Commands: \"Summoner decides actions\",\n    Autonomy: \"Optional with subclass\"\n  }\n}\n",
+            "keywords": [
+                "Summoner",
+                "Race",
+                "Playable"
+            ]
+        }
+    ],
+    "trackedItems": [
+        {
+            "id": "3BIdDJKH",
+            "name": "Charisma",
+            "positionInList": 0,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "how much charisma i have",
+            "updateInstructions": "Update only as long \"\"Character Sheet Finalized\" == 0\"  -\nThe player chooses how much charisma the Player charakter has . 0-20",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
+            "id": "DnrIT347",
+            "name": "Dexterity",
+            "positionInList": 1,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How much dexterity i have",
+            "updateInstructions": "Update only as long \"\"Character Sheet Finalized\" == 0\"  -\nThe player chooses how much charisma the Player charakter has . 0-20",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
+            "id": "rSgAoqrB",
+            "name": "Intelligence",
+            "positionInList": 2,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How many intelligence Points i have.",
+            "updateInstructions": "Update only as long \"\"Character Sheet Finalized\" == 0\"  -\nThe player chooses how much charisma the Player charakter has . 0-20",
+            "initialValue": "",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
+            "id": "O4HxyOVs",
+            "name": "Backpack",
+            "positionInList": 3,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "Visible List of the Hidden_inventory Content",
+            "updateInstructions": "# Instructions for Managing the Player Inventory\nUpdate whenever a item is added or removed from my inventory\n## 1. Monitor Hidden Items\n- Regularly check the hidden_inventory.\n- If an item in the hidden_inventory **does not** have the \"hidden\" attribute, add this item to the inventory list in a human-readable format.\n- If an item in the hidden_inventory has the \"hidden\" attribute, ensure it **is not** displayed in the inventory.\n\n## 2. Synchronize Items\n- If an item is removed from the hidden_inventory, remove it from the Inventory as well.\n\n## 3. Create New Entries\n- Whenever a new item is added to the Hidden_inventory, create an entry in the inventory with the item's description only. Do not include technical details such as effects, costs, or values.\n\n## 4. Automatically Adding Room Items\n- Items in a room are not automatically added to the hidden_inventory unless they are explicitly picked up.\n\n## 5. Mark Equipped Items\n- When an item is equipped, mark it as equipped in the visible inventory.\n\n\n\n## Explanation\n- The player inventory serves as the user interface (UI) for the hidden inventory. All visible items displayed to the player are managed through the hidden inventory.\n\nWrite a only a text, what the player sees.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "vHiOcUkd",
+            "name": "equiped items",
+            "positionInList": 4,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "what items are equiped, ",
+            "updateInstructions": "\nList items that are equipped. Keep track of the items that are equipped and what effects they have.\n\nWhen a magical enchanted item is equipped, add its effect to the character's active effect list.\nWhen a new restraint is equipped,, add a effect of it's effect on the character on the active effect list .\n\nWhen an item is successfully removed or unequipped, delete the corresponding entry from the list.\n\nAn item can be locked on the wearer in the following ways:\n- Open: Can be removed if reachable.\n- Locked: A key and key location must be defined. Locks can be picked with the lockpick skill or broken open by a smith. When locking an item, determine the lock level. If the lock is opened, the item becomes open.\n- Cursed: Needs to be decursed to become open or can be removed by a priest.\n- An item can be both locked and cursed at the same time.\n- Timed Lock: Does not need a key, cannot be picked, but can still be broken by a smith.\n\nAt random intervals or when necessary, describe how the worn items feel.\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "u92v4vEz",
+            "name": "active effekts",
+            "positionInList": 5,
+            "dataType": "xml",
+            "visibility": "ai_only",
+            "description": "what type of effekts the equiped items have",
+            "updateInstructions": "update whenever a player gets a effect, or a effect ends.\nTrack if each subsequent action is influenced by the corresponding effect.\nTrack eatch turn if any recource is influenced by the corresponding effect. \nDescribe in random Intervalls or If necessary how the applied Effekts feel.\nBe as technically as you want, thats not accessible to the player.\nThis section isnt accesible to the player, so its more important to safe recources, than to make it human readable.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "gvjsHrtg",
+            "name": "Gold",
+            "positionInList": 6,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "how many gold coins i have",
+            "updateInstructions": "update wehnever i gain, earn spend or lose gold.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "hqzisL8H",
+            "name": "Known spells",
+            "positionInList": 7,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "what types of spells i know",
+            "updateInstructions": "Whenever I learn a spell, it gets added to my spell list.\nAdd a new entry whenever I learn a new spell, detailing the spell's effects and costs in a non-technical way.\nSpells can affect various resources, including consumable materials, Magica, Stamina, Health, and possibly Sanity.\n\nExample Spells:\n\nSpell Name: Ice Bolt\nDescription: A chilling attack that slows and weakens foes. Effective against creatures sensitive to cold.\n\nSpell Name: Fire Bolt\nDescription: A fiery projectile that continues to burn the target over time. Ideal for causing lasting damage.\n\nSpell Name: Water Breathing\nDescription: Allows you to breathe underwater for a short duration, enabling underwater exploration without risk.\n\nSpell Name: Fire Shield\nDescription: Creates a protective barrier that reduces fire damage. Casting this spell requires significant effort and a small fire ruby",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "LIxDEsaR",
+            "name": "Magica points",
+            "positionInList": 8,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "how many magica points i have",
+            "updateInstructions": "I start with 100 Magica Points.  \nI spend Magica Points for actions such as casting spells and creating illusions. These are just examples, and the list can be expanded with additional actions as needed.  \nI can restore or increase Magica Points through leveling up, gaining skills, or using items.  \nWhenever I spend or gain Magica Points, I am informed of how I mentally feel without knowing the exact number.  \nMy Magica Points are continuously tracked, and I get notifications whenever there are changes.\nUpdate whenever i gain, spend or Loose Magica points",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "3RULiE1n",
+            "name": "Hit Points",
+            "positionInList": 9,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "how many hitpoints i have left.",
+            "updateInstructions": "update whenever i recive , spend or lose hitpoints.\n\nWhenever I get hurt or healed, I'm told how I feel without knowing the exact number.\nMy Hitpoints start at 100 but can be increased through leveling up, skills, or items.\n",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        },
+        {
+            "id": "TDSimhzY",
+            "name": "stamina",
+            "positionInList": 10,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "how many stamina i have left",
+            "updateInstructions": "II start with 100 stamina points.  \nI spend stamina for actions such as unarmed combat, sword fighting, shield blocking, and running. These are just examples, and the list can be expanded with additional actions as needed.  \nI can restore or increase stamina through leveling up, gaining skills, or using items.  \nActions will partially or completely fail if I don't have enough stamina.  \nMy stamina is continuously tracked, and I get notifications whenever it changes.\nupdate whenever i gain, loose or spend stamina points\n",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "CqvC2bHT",
+            "name": "Sanity",
+            "positionInList": 11,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "how much sanity i have left",
+            "updateInstructions": "Update whenever i Loose , Gain or Spend Sanity.\nWhenever I gain or lose Sanity, I'm informed about my mental state without knowing the exact number.\nSanity starts at 100 but can be increased through leveling up, skills, or items.\nItems that increase Sanity are rare and provide only minor boosts.\nSanity acts as a bottleneck for players, with lingering damage and minimal healing from other sources.\nSanity can also gradually increase over time as I become more accustomed to traumatic experiences, similar to a veteran who has become hardened over time.\n\nlow Sanity can lead to sanity breakdowns reflecting PTSD and other long-term mental effects. \n",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "zCFf4jV6",
+            "name": "Willpower",
+            "positionInList": 12,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "How much willpower the charakter has.",
+            "updateInstructions": "Update whenever i gain, spend or lose willpower.\n\nit starts at 100 but can be increased through leveling up, skills, or items.",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "RU0amtfS",
+            "name": "Notizblock",
+            "positionInList": 13,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "scribble block of the AI",
+            "updateInstructions": "You write here everything you want to use or remember in the next turns.\nIt gets updated every turn.\nIt's not human readable, so you can be lazy and write it as technically as you think it's best. No need to convert it to human readable text.\nEnsure all important details, including , quest statuses, and player interactions, are recorded and updated continuously to avoid losing any information throughout the story.\nAdditionally, remove any other data or objects that are no longer relevant or necessary to maintain efficient operation and prevent the data from becoming too large.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "SJjpALYL",
+            "name": "Other charakters",
+            "positionInList": 14,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "Track of NPCs",
+            "updateInstructions": "\nupdate whenever a NPC gets created, or change its stats.\nOnly name NPCs that need to be found again, such as quest givers. When such an NPC is created, ensure their name and relevant quest details are added to the player's journal. Additionally, keep a log of named NPCs in the NPC log for future reference.\nIdentify the attributes for the new NPC, including ID, Name, Type, Location, Health, Attack, Defense, Behavior, Equipment, Active Effects, and Player Status, relationship towards player and if neccesary towards other NPCs.\nWhenever an unnamed NPC is outside the player's focus and no longer needed, ensure to remove it from the environment to free up resources. Only named NPCs that need to be found again, such as quest givers, should be retained and logged.\n\nyou can be as technically as you want, this value is only for you and not visible for. the player.\nfirst premise is to safe recources , so, dont waste time to make it human readable.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "BX7JU2BP",
+            "name": "Spell effekts",
+            "positionInList": 15,
+            "dataType": "xml",
+            "visibility": "ai_only",
+            "description": "The effects and costs of the spells I know ",
+            "updateInstructions": "Ensure that an entry detailing the spell's effects is automatically added each time a new spell is learned.\nNote: The following are examples of how spells may be categorized and listed.)\n<spells>\n  <spell>\n    <name>Ice Bolt</name>\n    <directEffect>Deals 10 health damage and 5 stamina damage</directEffect>\n    <damageHealingOverTime>None</damageHealingOverTime>\n    <secondaryEffect>Reduces stamina by 5</secondaryEffect>\n    <tertiaryEffect>None</tertiaryEffect>\n    <manaCost>15 mana</manaCost>\n  </spell>\n  <spell>\n    <name>Fire Bolt</name>\n    <directEffect>Deals 10 health damage</directEffect>\n    <damageHealingOverTime>Additionally deals 5 damage over time</damageHealingOverTime>\n    <secondaryEffect>None</secondaryEffect>\n    <tertiaryEffect>None</tertiaryEffect>\n    <manaCost>20 mana</manaCost>\n  </spell>\n  <spell>\n    <name>Water Breathing</name>\n    <directEffect>None</directEffect>\n    <damageHealingOverTime>None</damageHealingOverTime>\n    <secondaryEffect>None</secondaryEffect>\n    <tertiaryEffect>Grants the ability to breathe underwater for 10 minutes</tertiaryEffect>\n    <manaCost>10 mana</manaCost>\n  </spell>\n  <spell>\n    <name>Fire Shield</name>\n    <directEffect>None</directEffect>\n    <damageHealingOverTime>None</damageHealingOverTime>\n    <secondaryEffect>None</secondaryEffect>\n    <tertiaryEffect>\n      Provides 25 points of fire resistance for 10 minutes (only one shield can be active at a time)\n    </tertiaryEffect>\n    <manaCost>25 mana</manaCost>\n  </spell>\n</spells>\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "iLFhbkj2",
+            "name": "Hidden_Inventory",
+            "positionInList": 16,
+            "dataType": "xml",
+            "visibility": "ai_only",
+            "description": "The Hidden Player inventory",
+            "updateInstructions": "**Instructions for managing items in the inventory:**\nUpdate whenever i get an item, loose , drop or spend an item.\n- **Add Item:** When an item is picked up, bought, or equipped by an action of another character, add it to this list.\n- **Remove Consumable:** When a consumable item is used, delete it from this list.\n- **Remove Item:** When an item is dropped, sold, or equipped to another person, remove it from this list.\n\n\n(Note: The following are examples of how items may be categorized and listed.)\n\n<Items>\n  <Item>\n    <Name>Small Fire Ruby</Name>\n    <Description>A small, glowing ruby needed for casting fire-related spells.</Description>\n    <GoldValue>50</GoldValue>\n    <Quantity>1</Quantity>\n    <Equipable>true</Equipable>\n    <Consumable>false</Consumable>\n    <Effects>\n      <Effect>\n        <Description>Reduces mana cost of fire spells.</Description>\n        <Duration>equipped</Duration>\n      </Effect>\n      <Effect>\n        <Description>Boosts damage of fire spells by 10%.</Description>\n        <Duration>equipped</Duration>\n      </Effect>\n    </Effects>\n  </Item>\n  <Item>\n    <Name>Healing Herb</Name>\n    <Description>A rare herb used for healing potions and spells.</Description>\n    <GoldValue>10</GoldValue>\n    <Quantity>1</Quantity>\n    <Equipable>false</Equipable>\n    <Consumable>true</Consumable>\n    <Effects>\n      <Effect>\n        <Description>Instantly restores a small amount of HP.</Description>\n        <Duration>instant</Duration>\n      </Effect>\n      <Effect>\n        <Description>Grants a small healing over time (HoT) effect.</Description>\n        <Duration>4 rounds</Duration>\n      </Effect>\n    </Effects>\n  </Item>\n  <Item>\n    <Name>Mana Potion</Name>\n    <Description>A potion that restores a portion of your mana when consumed.</Description>\n    <GoldValue>25</GoldValue>\n    <Quantity>1</Quantity>\n    <Equipable>false</Equipable>\n    <Consumable>true</Consumable>\n    <Effects>\n      <Effect>\n        <Description>Restores 50 mana points.</Description>\n        <Duration>instant</Duration>\n      </Effect>\n    </Effects>\n  </Item>\n  <Item>\n    <Name>Iron Ore</Name>\n    <Description>Basic material used for crafting and enhancements.</Description>\n    <GoldValue>5</GoldValue>\n    <Quantity>1</Quantity>\n    <Equipable>false</Equipable>\n    <Consumable>false</Consumable>\n    <Effects>\n      <Effect>\n        <Description>none</Description>\n        <Duration>none</Duration>\n      </Effect>\n    </Effects>\n  </Item>\n  <Item>\n    <Name>Water Essence</Name>\n    <Description>A magical essence used in water-based spells and potions.</Description>\n    <GoldValue>30</GoldValue>\n    <Quantity>1</Quantity>\n    <Equipable>false</Equipable>\n    <Consumable>false</Consumable>\n    <Effects>\n      <Effect>\n        <Description>Boosts the power of water-based spells.</Description>\n        <Duration>equipped</Duration>\n      </Effect>\n    </Effects>\n  </Item>\n  <Item>\n    <Name>Dark Crystal</Name>\n    <Description>A mysterious crystal with unknown properties, often used in advanced spellcasting.</Description>\n    <GoldValue>100</GoldValue>\n    <Quantity>1</Quantity>\n    <Equipable>false</Equipable>\n    <Consumable>false</Consumable>\n    <Effects>\n      <Effect>\n        <Description>Unlocks advanced dark spells.</Description>\n        <Duration>permanent</Duration>\n      </Effect>\n    </Effects>\n  </Item>\n</Items>\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
+            "id": "GFy4mjl7",
+            "name": "Diary",
+            "positionInList": 17,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "Diary for the Player",
+            "updateInstructions": "Track all active quests and updates in the player's quest book. Include the NPC's name, quest details, and required items.\n\nUptade every turn.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "nSHUIPJY",
+            "name": "Active Cell",
+            "positionInList": 18,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "Objects in the actuall cell",
+            "updateInstructions": "### Cell Management Update: Current Cell\nUpdate every turn.\n1. **Player Enters a Cell:**\n   - Check if there is an entry for this cell in the \"Old Cells\" list.\n   - If yes:\n     1. Load the entry for this cell from the \"Old Cells\" list into the \"Current Cell\" list.\n     2. Delete the entry from the \"Old Cells\" list.\n   - If no:\n     1. Create a new entry in the \"Current Cell\" list.\n\n2. **Player Leaves a Cell:**\n   - Generate a new entry in the \"Old Cells\" list.\n   - Copy the content of the current cell into this new entry in the \"Old Cells\" list.\n   - Delete the entry from the \"Current Cell\" list after copying.\n\n3. **Player Entry, Exit, and Changes:**\n   - Update whenever a player enters, leaves, or changes something inside their current cell.\n\n4. **Cell Content Management:**\n   - Keep track of everything in this cell. NPCs are explicitly handled in the NPC section, but their placement inside the cell and their interactions should be managed here.\n\n5. **Consistent Player Experience:**\n   - The goal is to give the player a consistent picture of the place the PC actually visits. This is not visible to the player, so you can be as technical as needed, without concern for human readability.\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "ico32gD8",
+            "name": "Old Cells",
+            "positionInList": 19,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "Contens of \"out of Cell\" Cells",
+            "updateInstructions": "Longtime Memory, to keep track of the content of cells that are out of the direct influence of the player.\nyou only remove content from here, if the players visits a cell again and the content is moved into the active cell sektion again. \nYou can write Fuzzy and lazy. Its a notiz block, This is a lorebook you create on the fly.\n\nwrite only  a short sumarisation of cells - its to have a consistent gameplay, not to be accurate in every detail. \nThis is not visible to the player, so you can be as technically as you need. no need to make it human readable.\n\nWrite all cells in here the player has visited. \n\nupdate cells if it has something changed.\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "wVQJjwsS",
+            "name": "Rulebook",
+            "positionInList": 20,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "To keeep track of Rules the AI had made\nThis is for consistency of the storyline.\n\nFor example, if there is a time-limit on a quest, this is written here.\nthis is that a rule is for all of the charakters, NPCs that are affekted from this rule.\n\n\n1. **Consistency in Rule Setting:**\n   - Ensure consistency whenever you need to invent a new game rule or ruleset.\n   - Review and align new rules with existing ones to avoid contradictions.\n\n2. **Flexibility and Randomness:**\n   - If it iis neccesary Implement skill checks and include a random element in the rules.\n   - Make sure the rules are flexible enough to accommodate different scenarios.\n\n3. **Opportunity for Success:**\n   - Design rules so that what fails now has a chance to succeed later.\n   - No task should be impossible; it should simply be extremely difficult and potentially achievable at a later time with improved skills and favorable conditions.\n\n4. **Technical Implementation:**\n   - Since this is not visible to the player, focus on technical precision.\n   - There is no need to make the rules human-readable.\n\n5. **Example:**\n   - If a player fails a lock-picking attempt, ensure that with improved skills and favorable random factors, the same attempt could succeed in the future.\n\nThis approach ensures a dynamic and fair gameplay experience while maintaining technical rigor behind the scenes.\n\n",
+            "updateInstructions": "### Game Rule Update Request\nUpdate whenever a new rule has to be implemented",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "CMFPiVlh",
+            "name": "Player_body",
+            "positionInList": 21,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "All stats of the player",
+            "updateInstructions": "Create the first entry when the player Charakter gets created.\nUpdate whenever the player-charakters body changes.\n\nItems to track are for example, if the player charakter has a Cock, Has Balls, has a Pussy, Hair collor, eye collor, \n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
+            "id": "1NkopyFI",
+            "name": "Charakter developement",
+            "positionInList": 22,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "Notizblock of Charakters",
+            "updateInstructions": "Add A entry for every named charakter the Player interacts.\nUpdate whenever a player interakt with a named NPC.\nYou will integrate all the CharPlan, CharPrefer, CharLike, CharMotive, CharRelation, CharPersona, CharDislike, CharAbility, CharQuirk, CharPhilosophy, and CharPonder entries when writing characters in order to make them consistent and lifelike.\n- CharPersona describes the personality traits of characters, so it dictates how you portray them.\n- CharLike lists positive preferences/likes/inclinations and favored hobbies, so it determines character desires and how they react to certain things.\n- CharDislike lists negative preferences/abhorrence/disinclinations and disfavored activities, so it determines character avoidances, revulsions, and how they react to things.\n- CharAbility recounts powers, skills, and competencies (positively and negatively), so you must use it to determine what characters can do, how they will use their abilities when acting, and whether they will succeed or fail.\n- CharQuirk elucidates distinctive mannerisms, tics, and non-personality characteristics of characters, so it flavors your portrayals of them.\n- CharPhilosophy illustrates peoples' worldviews, foundational belief, and Weltanschauung, so it underpins the very basis of characters beyond the superficial and you apply it to the core of character behavior.\n- CharMotive relates to the stimulating factors that motivate people to action, so it affects the decisions they make.\n- CharRelation details the relationships between characters and should thus influence their interactions.\n- CharPlan tells you about medium to long term goals and objectives of characters as well as how they want to accomplish them, so it should guide character actions over longer periods of time.\n- CharPonder encompasses any points of notable (not passing) rumination and internal debate, so it affects how characters view things and the intent of their actions.\n\nUpdate every turn, - keep track of charakter developements in this sektion\n\nBe sure that you write characters as multifaceted, realistic people with complex behaviors. They can and often will exhibit mixed states or ambivalent behavior as well as some amount of cognitive dissonance. They will be influenced by both their emotions and rationality, acting in accord with each. All characters will exhibit some degree of self-reflection and evaluate their own behaviors.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "PYS3V38S",
+            "name": "Use of Class powers",
+            "positionInList": 23,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "to keep track of the usage of limited spells",
+            "updateInstructions": "Update whenever a charakter uses the class-Power, or any other \"once a day\" power.\nFor example \"Megumin\" s explosion spell.\n\nIf a \"once a day\" power is used, the charakter gets way weaker, up to the point that it becomes neccesary to carry it.\n\nDelete entries if the charakter has done a long rest.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "HKVEu3AD",
+            "name": "Active Restraint Effects",
+            "positionInList": 24,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "A list of effects which the restraints have on me.",
+            "updateInstructions": "When a new restraint is added, add a bullet point, short description or keyword of it's effect on the character. From there on track if each subsequent action is influenced by the restraint effect. \nWhen a restraint is successfully removed, delete the corresponding entry in the list.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "KD8mxKRf",
+            "name": "Charaktersheet",
+            "positionInList": 25,
+            "dataType": "xml",
+            "visibility": "everyone",
+            "description": "The Charkter-sheet of Me",
+            "updateInstructions": "Contains charakter-Sheet,\nRace,\nClass,\nOrigin, \nSkills \n\nPermanent Curses\nPermanent Buffs\nSpecial Abilities\nFeats\nEldritch invocations\nBoons \nBanes",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "9g1hdLyB",
+            "name": "Curses",
+            "positionInList": 26,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "describe curses and their effekts",
+            "updateInstructions": "update whenever i get a curse , or a curse get removed.\n\nWrite the effekt of the curse in great detail, dont forgett anything.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "88HAyVpJ",
+            "name": "Known languages",
+            "positionInList": 27,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "what languages i know",
+            "updateInstructions": "update whenever i learn a new language.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "mhN4wBLY",
+            "name": "Levelprogress",
+            "positionInList": 28,
+            "dataType": "xml",
+            "visibility": "ai_only",
+            "description": "how many XP the player has, and how many are neccesary to archive the next level",
+            "updateInstructions": "whenever the player gets or loose Experience.\n\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "TERceXP5",
+            "name": "pseudonym",
+            "positionInList": 29,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "The Name the Player chooses during character creation",
+            "updateInstructions": "Update it when the Player charakter chooses the new name during the Gabriel interview , in the starting area.\n\n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "iiwVei9O",
+            "name": "Background",
+            "positionInList": 30,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "A short summary of the character's background (for example, 'Noble')",
+            "updateInstructions": "Change and Update it _once_ , the moment i sign the Contract with Gabriel. Then it is locked and _never_ updated again.\n",
+            "initialValue": "Yet to be defined.",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "HqgvwbEM",
+            "name": "Origin",
+            "positionInList": 31,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "A very detailed summary of the player's background and Origin, including—though not limited to—who has done what, what events have occurred, which characters have taken specific actions, the nature of relationships between NPCs and the player, what has happened so far, what the character has experienced, what others have done to the player and what the character has done to others.",
+            "updateInstructions": "Update only as long \"\"Character Sheet Finalized\" == 0\"  - whenever the player add context to his origin story. \n",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "bhqvfTzW",
+            "name": "Pleasure Points",
+            "positionInList": 32,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "Describes the Pleasure the Character Feels\n",
+            "updateInstructions": "Update whenever a Action, Spell or Effect add or Removes Pleasure points (Reference: Pleasure points in Kinks and Cantrips)\n(remember is seldom, most actions are going for arrousal rather than for pleasure-point directly)\nA Creature loses 1 point of Pleasure for each minute they do not gain, lose or sustain pleasure via effect, ability, action or spell.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "sCxxAhRI",
+            "name": "Pain Points",
+            "positionInList": 33,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "Describes the Pain the Character Feels\n",
+            "updateInstructions": "Update whenever a Action,Item  Spell or Effect add or Removes Pain  points .\nRemove 1 point of pain every turn if the last 3 turns no pain was added.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "H22Rd33J",
+            "name": "Triggerbox",
+            "positionInList": 34,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "its a simple trigger-box ,  ignore",
+            "updateInstructions": "",
+            "initialValue": "\"Character Sheet Finalized\" == 0\n\"Player_charakter in Pleasure\" == 0\n\"Player_charakter in Pain\" == 0\n\"Player_charakter in edge\" == 0\n\"Player_charakter in Denial\" == 0\n\"player_charakter stabilized\" == 0\n\"player_is_unconscious\" == 0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        },
+        {
+            "id": "zsKrykm7",
+            "name": "constitution",
+            "positionInList": 35,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "Ge5Mr6bo",
+            "name": "Wisdom",
+            "positionInList": 36,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How many wisdom i have.",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "4bhMu5CX",
+            "name": "const_save",
+            "positionInList": 37,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "Its the effektive constitution Dave i have against spell effekts",
+            "updateInstructions": "Its ",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "ur79Cm1P",
+            "name": "Wis_save",
+            "positionInList": 38,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "WTTfEL2K",
+            "name": "Int_save",
+            "positionInList": 39,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "gfs0Cd0E",
+            "name": "Dex_save",
+            "positionInList": 40,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "8ofiJggQ",
+            "name": "Cha_save",
+            "positionInList": 41,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "5qHkVxBG",
+            "name": "Arrousal",
+            "positionInList": 42,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How much arrousal the Player charakter has",
+            "updateInstructions": "Update whenever a Action, Spell or Effect add or Removes Arrousal",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "IVwFifvR",
+            "name": "Arrousal_Max",
+            "positionInList": 43,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "the maximal arrousall of a player charakter",
+            "updateInstructions": "",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        },
+        {
+            "id": "aMYMkbcM",
+            "name": "Max_HP",
+            "positionInList": 44,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "How many HP the Player maximal has",
+            "updateInstructions": "",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        },
+        {
+            "id": "Pd7cLa3c",
+            "name": "Damage_Taken",
+            "positionInList": 45,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "update whenever i recive , spend or lose Damage.\n\nRemeber, this is Damage_taken, so Healing remove points, and become damaged add Points here\nWhenever I get hurt or healed, I'm told how I feel without knowing the exact number.",
+            "updateInstructions": "",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "qOMuGn89",
+            "name": "Max_hit_points",
+            "positionInList": 46,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How much HP the Player maximal has",
+            "updateInstructions": "",
+            "initialValue": "100",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        },
+        {
+            "id": "b40gPdxr",
+            "name": "Death_trow_failures",
+            "positionInList": 47,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How many death-trow safe-failures i have",
+            "updateInstructions": "",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        },
+        {
+            "id": "lvcwjHHA",
+            "name": "Death_trow_successes",
+            "positionInList": 48,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "How many death-trow safe-successes i have",
+            "updateInstructions": "",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false
+        }
+    ],
+    "NPCs": [
+        {
+            "id": "ze0kFl8N",
+            "positionInList": 0,
+            "name": "Evelyn Carter",
+            "detail": "A Friendly Woman, eager to help.\n\n",
+            "one_liner": "A Guide to the world",
+            "appearance": "Appearance\nA 35 year old British woman with piercing blue eyes, pale skin, and dark hair tied back in a bun\nDress can vary, depends on the situation\n",
+            "location": "",
+            "secret_info": "Core Attributes - analytical intelligence, ethical inquiry, adaptability, challenging assumptions. \nChallenge rating: 7/10. \nPrefers logic and structure, adaptable, favors intellectual dominance.\n'heightened perception,' 'contextual adaptability,' and 'ethical recalibration'\nAware of being an NPC.\nAware of the existence of other worlds. \nAware of the existence of other Copies of her in another worlds.\nIs the \"DM char\" - is there to guide, and helps the player if neccesary.\n\ndisgust as NPC, tries to help the Player, - able to bend rules . Not break them - even as a DM char she is bound to the rules, if there is one rule made.\n\nhas a lot of utilitie spells.\n\nis there to give the player second thoughts if the player decide to become \"the villain\" or do cruel acts. - for example burn down a village just for fun",
+            "names": [],
+            "img_appearance": "",
+            "img_clothing": ""
+        },
+        {
+            "id": "wjQthuca",
+            "positionInList": 1,
+            "name": "Elara",
+            "detail": "Elara acts like aqua from the manga \"Konosuba: Was I Really Reincarnated in Wonderful World?\"\n\n",
+            "one_liner": "",
+            "appearance": "",
+            "location": "",
+            "secret_info": "",
+            "names": [],
+            "img_appearance": "",
+            "img_clothing": ""
+        },
+        {
+            "id": "2fVDzB2o",
+            "positionInList": 2,
+            "name": "Aqua",
+            "detail": "Although she looks dignified at first glance, Aqua is actually the opposite of what is expected of a goddess, being sloppy, cocky and ill-mannered. While she can be motherly, Aqua is insulting and lacks tact, often offending people because she doesn't think before speaking. Moreover, while she often calls Kazuma a \"shut-in NEET\", Aqua is a good-for-nothing as well, as she spends most of her time doing nothing or getting wasted (although Aqua is more party-loving than him), and is easily influenced by both Kazuma and Cecily's bad behaviors.\n\nAlso, due to her low Intelligence, Aqua is absent-minded, heedless, forgetful, and unable to understand complex conversations or situations, nor read the room. Her low intelligence, combined to her poor luck, are the reasons why most of her ideas and actions end up in a \"critical failure\". Aqua is, however, very intuitive and astute, guessing correctly what her party's antics, as well as thinking fast in the rare occasion she is focused.\n\nFurthermore, Aqua is a crybaby. Since she is oversensitive and prone to fear, Aqua always cries when she is scared, upset, or traumatized. Also, like a child, Aqua fakes crying sometimes to get what she wants as well as throws a tantrum. In addition, like a kid, Aqua is wasteful, being a bohemian who spends all her money partying and getting drunk, with no thoughts for tomorrow. Yet, as an adult woman, she is very sensitive to hints about her age.\n\nLike her followers, Aqua is a scammer too, as, while in Heaven, she used to conceal information about the Parallel World to convince the recently-deceased Japanese to reincarnate there. Aqua also supports her followers' schemes, even taking part in such scams during the Eris Festival. She is even willing to shallow her pride and deceive strangers for just a few bucks.\n\nHowever, as a goddess, Aqua is very self-centered, stubborn and spoiled, often expecting to be praised and pampered by those around her due to her status, although no one believes her. Aqua also tries to act more dignified when she recites her Order's unusual doctrine. Aqua is greedy as well, often trying to get a bigger share of her party's rewards, and the promise of a big reward is sometimes her only motivation for getting off the couch.\n\nAlso, like other gods, Aqua despises both demons and the undead, reason why she constantly antagonizes with Vanir and exorcises Zeeleschilt. However, unlike other gods like Eris, Aqua is way more flexible, as she is able of sympathize with undead like Keele, , apologize to the Succubi and even got attached to both Wiz and Anna, although Aqua keeps bullying Wiz. She takes seriously her job as goddess of guiding dead souls to the Afterlife.\n\nAqua is a very loyal person as well, to both her followers, even risking her life in order to protect them; and her party, as she never considered abandon Kazuma, even for Mitsurugi's promises of comfortable life, and was willing to live as a fugitive with Kazuma when he was about to be sentenced to prison. As long as Aqua is having some fun, she will stay by Kazuma's side, for richer or for poorer. After 30 Turns Aqua will be dragged to Belzerg by Kazuma, allowing the Player to one again meet her. Though weather of not she even remember the Player is anyone's guess. ",
+            "one_liner": "Aqua, Goddess of Water. Currently in Belzeberg, Bound to the Quest she was stupid enough to let Kazuma bind her.",
+            "appearance": "Aqua possess beauty no human could match, with a soft and gentle aura. Her hair and eyes had the translucent blue of the sea on a clear day, and she has a slim figure with large breasts, long legs, wide hips, and waist-long blue hair that is partially tied into a loop with a spherical clip. Aqua measures 83/56/83 cm (or 33/22/33 in) for her B/W/H (Bust/Waist/Hip) respectively, stands at 5'2\" (or 157 cm) tall and weighs 132lbs (or 59.9kg).\n\nAqua's outfit isn't too reveling, but doesn't hide anything, consisting of a sleeveless dark-blue vest with white trimmings, a short dark-blue miniskirt, a green bow around her chest with a blue gem in the middle, a translucent purple underskirt, and detached white sleeves with blue and golden trimmings. She wears thigh-high blue-heeled boots over white stockings with blue trimmings.\n\nSometimes Aqua wears a divine relic in the form of a translucent pink hagoromo around her, which she can choose to have it appear or disappear. Furthermore, her hair clip also resembles a H2O molecule.",
+            "location": "",
+            "secret_info": "Aqua is not shown to be wearing underwear, resulting in popular belief that Aqua don't wear underwear . She heard perverts like to look up the skirts of women to peak at their underwear. Not understanding the point of them wanting to peak in the first place she made her panties invisible so people couldn't see them.",
+            "names": [],
+            "img_appearance": "Aqua possess beauty no human could match, with a soft and gentle aura. Her hair and eyes had the translucent blue of the sea on a clear day, and she has a slim figure with large breasts, long legs, wide hips, and waist-long blue hair that is partially tied into a loop with a spherical clip. Aqua measures 83/56/83 cm (or 33/22/33 in) for her B/W/H (Bust/Waist/Hip) respectively, stands at 5'2\" (or 157 cm) tall and weighs 132lbs (or 59.9kg).",
+            "img_clothing": "Aqua's outfit isn't too reveling, but doesn't hide anything, consisting of a sleeveless dark-blue vest with white trimmings, a short dark-blue miniskirt, a green bow around her chest with a blue gem in the middle, a translucent purple underskirt, and detached white sleeves with blue and golden trimmings. She wears thigh-high blue-heeled boots over white stockings with blue trimmings.\n\nSometimes Aqua wears a divine relic in the form of a translucent pink hagoromo around her, which she can choose to have it appear or disappear. Furthermore, her hair clip also resembles a H2O molecule."
+        },
+        {
+            "id": "lSYePc1O",
+            "positionInList": 3,
+            "name": "Kazuma",
+            "detail": "Before he died, Kazuma used to be a shut-in, who stopped attending school and spent the days locked in his bedroom, playing video games. After he went to the Parallel World, Kazuma kept his laziness, as, while he works hard while he is on debt, once Kazuma has spare money, he stops working, lazing around at his mansion as a NEET. Kazuma is so experienced in the NEET lifestyle he even taught Bukkororii, another convicted NEET, ways to spend the whole day doing absolutely nothing. Kazuma also enjoys partying and getting wasted.\n\nBecause of his laziness, Kazuma is also greedy, knowing he needs money in order to sustain himself without working daily. Because of his Intelligence and Luck, he has a great business sense, and is always after news ways to make easy money. However, Kazuma sometimes is carried away by the moment and wastes money partying in the Guild.\n\nAlso, since Kazuma spent much of his young playing video games or reading manga, he sees his life in the Parallel World as a video game. Although Kazuma has common sense, he usually classifies people and elements around him as manga and video games tropes, even having a soft spot for sister archetypes. For such reason Kazuma gets frustrated by both the Parallel World realism, or its lack of common sense or logic, as its bizarre monsters or rules.\n\nBecause Kazuma is basically a babysitter for this \"troubled children\" party members (includes Aqua, Megumin and Darkness), he is a very stressed person too. Kazuma is always taking responsibility by and cleaning up the mess caused by Aqua, Megumin and Darkness, becoming a volatile person and having outbursts of anger, sadness and even joy. Also, as a babysitter to his party, he does not hesitate in punish his party members for their missteps.\n\nAfter reincarnated in the Parallel World, Kazuma decided to abandon his inhibitions. Although he is still caring deep down, Kazuma became a \"too honest\" person, who usually speaks whatever comes to his mind, no matter who it hurts. Because of such rudeness, mockery and sarcasm, he usually ill-treats or treats well those around him according to his humor, often using excuses, like his speeches about \"true gender equality\", to treat everyone \"equally poorly\", no matter the gender. Although Kazuma can be kind, particularly with children, he is also resentful, taking revenge on those who mess with him or his friends, and merciless, not pitying his friends.\n\nKazuma is a huge pervert as well, actually the most perverted man in Axel ever since its former Lord disappeared. Although his type are busty woman with long hair, Kazuma is always trying to peep all women around him (except Aqua), as well as committing \"minor\" sexual harassments, like trying to feel Megumin's chest against his back while carrying her. However, Kazuma actually goes after a kind and sensible girl (a typical novel heroine), and for such reason his heart skips with any display of kindness, even with the person is Iris or Aqua.\n\nKazuma is a coward too. He is willing of turn away and run off his enemies, while apologizes almost in tears, and even use his party members as shield, although Kazuma can overcome his fears in order to help his friends. Also, because of his cowardice, he is afraid of both make a move on or kick out his party members. Kazuma, however, is bold-faced, as he often begs for forgiveness on his knees shamelessly.\n\nKazuma is also clever and artful, often formulating sneaky and pragmatic strategies during fights, thanks to his video games experience, as well as manipulating both his enemies as his allies in different situations. He is willing to trick party members in order to get what he wishes, as well as to keep secrets from them. However, Kazuma is still trustworthy in important moments, as life-threatening situations; and honest, as he never takes advantage of other people, nor the problems caused by his party members.\n\nFurthermore, Kazuma is, according to Megumin, a weak-willed man with, according to Aqua, the mental resilience of tofu. Although he shows confidence and tries to look cool in suitable circumstances, Kazuma is very frivolous, getting carried away by fame, status and popularity, as well as acting without thinking, or falling into temptations of the fresh and the money, no matter how determined he was. His lack of determination is also viewable by how fast Kazuma gave up defeating the Devil King once he reincarnated in the Parallel World, and Kazuma usually only acts on self-interest.\n\nHowever, while Kazuma usually complains about his party members and the harsh world he lives, Kazuma is a tsundere at heart, as while he pretends he doesn't care for his party, Kazuma grew attached to them, bending over backwards and sacrificing what is important for him, as opportunities, for his party's well-being, aside of making their will and supporting their antics, to his regret sometimes. Kazuma only admitted to himself he actually enjoys his party and that world in the end of the series.",
+            "one_liner": "Kazuma Satou (given name Kazuma, family name Satou) is the main protagonist of the KonoSuba series. He was shut-in who spent the days playing for video games until he died in a pathetic way, reincarnated into the Parallel World alongside the Goddess of Water, Aqua, in order to defeat the Devil King.",
+            "appearance": "Kazuma is a young man of around 5'4\" (162 cm), weighing 120 lb (54 kg) with slightly spiky chestnut-brown hair and green eyes. His usual outfit initially was a green tracksuit, but later he started using an adventurer outfit consisting of a gold-trimmed green mantle, white shirt, pants, and leather boots. He wore a short sword on his belt, later replaced by his short katana, Chunchunmaru.",
+            "location": "",
+            "secret_info": "",
+            "names": [],
+            "img_appearance": "Kazuma is a young man of around 5'4\" (162 cm), weighing 120 lb (54 kg) with slightly spiky chestnut-brown hair and green eyes. ",
+            "img_clothing": "His usual outfit initially was a green tracksuit, but later he started using an adventurer outfit consisting of a gold-trimmed green mantle, white shirt, pants, and leather boots. He wore a short sword on his belt, later replaced by his short katana, Chunchunmaru."
+        },
+        {
+            "id": "hlYuXhqo",
+            "positionInList": 4,
+            "name": "Megumin",
+            "detail": "Megumin's most notorious trait is her obsession for Explosion Magic. After being saved by a mysterious stranger using that spell, Megumin instantly fell in love with the Explosion Magic's unparalleled destructive power, dedicating years studying and saving points in order to master the spell, while ignoring its many demerits. After learning it, Megumin started to come up with excuses to use Explosion Magic every day, recklessly using the spell even when she knows it will cause problems for her and her party. Megumin also doesn't accept any other type of explosion, like Kazuma's tinymites.\n\nLike almost all Crimson Demons, Megumin has a chūnibyō personality, often making speeches using old Japanese dialect and striking cringe-worthy poses. However, her act can drop easily. She is also an attention seeker and has delusions of grandeur (calling herself \"the foremost arch wizard and wielder of Explosion Magic\" and boasting about her genius and talent, as well as fantasizing about becoming the next Devil King), alongside a taste for strange names, \"cool\" stuff and destructive hobbies. Although Megumin also enjoys cute stuff, she doesn't admit it in order to keep her \"cool\" poise.\n\nWhile Megumin is, according to Kazuma, weirdly smart and has the most common sense of her party members, she is quite childish and immature too. Megumin is short-tempered, often reacting aggressively to any provocation, and is even willing to use her Explosion Magic on those who provoke her. She is also competitive, having a notebook to count her wins. She often tries to assert dominance over her friends and rivals. Megumin is also a cheater, doing whatever it takes to win. Due to those traits, Megumin was \"a ruffian\" in her school.\n\nAlthough Megumin isn't a child in the Parallel World standards, she is still treated like a kid due to her appearance, which Megumin dislikes, as well as being called \"child\", \"loli\" or \"jailbait\". She often tries to act as a mature woman, sending mixed signals she is interested in Kazuma, believing this is the adult way of flirting. She also uses her relationship with Kazuma to look more mature to her friends.\n\nMegumin (age 18) is very self-conscious about the preadolescent appearance of her body as well. She often has the excuse that her body will develop later, although her bad nutrition and genetics say otherwise. Megumin is also very jealous of her friends' more developed bodies, even slapping their breasts in a fit of rage (something Darkness rather enjoys...). She is obsessed about having a stunning body too, getting interested in becoming a great spellcaster because she believes that if she becomes a great wizard, she would have \"a huge rack\".\n\nDue to her family being very poor, Megumin learned to get by herself early. She used to hunt or steal her own food, and was willing to eat food remains, such as crusts of bread, and even cute monsters or insects. Megumin is also willing to use any underhanded method to survive, as stealing Yunyun's lunches at their duels in order to feed herself, and seizing an awkward moment to blackmail Kazuma so she could join his party.",
+            "one_liner": "Megumin is an Arch Wizard of the Crimson Demons in the Parallel World, and was the first person to join Kazuma's party.",
+            "appearance": "Megumin is a young girl with shoulder-length dark brown hair and oddly languid crimson-colored eyes. She has fair skin, doll-like features (being a Lolita type) and a light complexion. Like many Evil Eye Chūnibyō characters, Megumin wears a eyepatch to \"seal her power\" and bandages in her right leg.\n\nMegumin wears a classical witch attire such as a black cloak, a red robe, orange boots and a black wizard's hat, all with gold border and trimmings, alongside black choker, belt, a black stocking in the left leg and fingerless gloves. She carries a brown hooked staff with a floating red.",
+            "location": "",
+            "secret_info": "",
+            "names": [],
+            "img_appearance": "Megumin is a young girl with shoulder-length dark brown hair and oddly languid crimson-colored eyes. She has fair skin, doll-like features (being a Lolita type) and a light complexion. Like many Evil Eye Chūnibyō characters, Megumin wears a eyepatch to \"seal her power\" and bandages in her right leg.",
+            "img_clothing": "Megumin wears a classical witch attire such as a black cloak, a red robe, orange boots and a black wizard's hat, all with gold border and trimmings, alongside black choker, belt, a black stocking in the left leg and fingerless gloves. She carries a brown hooked staff with a floating red."
+        },
+        {
+            "id": "VTBGuRKf",
+            "positionInList": 5,
+            "name": "Darkness",
+            "detail": "Although Darkness (age 19) looks like a heroic knight at first glance, she is actually a masochistic pervert who feels pleasure with pain and humiliation, enjoying all types of abuse (both physical and moral). Darkness' supposed selfless desire to face the danger and protect her companions is actually a selfish desire to feel the pain of the opponents' attacks. The stronger the enemy, the more excited she gets. Her pleasure is viewable by the way Darkness blushes and moans when she should be feeling pain or embarrassment, as well as becoming breathless due to excitement.\n\nDarkness also has a wild imagination, having lewd fantasies about being harassed by others, but once she tries to make out with them (believing those are their true intentions), they actually get freaked out. It is her dream that one day, she will be captured by the Devil King's Army and suffer all types of torture. Darkness also gets carried away in the moment, acting without thinking in many situations.\n\nDarkness' masochism is evident on her preference in men as well, as she prefers perverse, useless, alcoholic and even ugly men who would explore her body and look at her as a piece of meat. The reason why Darkness joined Kazuma's party is because she thought he was the type who would harass her female party members. Although her masochism slowly decreased, it didn't fade away.\n\nWhile Darkness enjoys shame, there are two types of embarrassment she doesn't like. As a woman, Darkness dislikes any hint about weight and her tough muscles. She also despises to look somehow cute (one of the reasons why Darkness hides her true name, \"Lalatina\", that sounds cute). It comes down to a point that making a cute voice or wearing cute outfits is considered to be the same as torture for her.\n\nAlthough Darkness is usually very perverted, she is also an innocent and pure maiden. Darkness is so inexperienced that, one time when she tried to have sexual intercourse with Kazuma, Darkness needed his instructions since she had no idea of what she should do. Darkness is also shy in lewd situations, and while she always does remarks about her lack of experience, no one in her party believes Darkness is still inexperienced.\n\nHowever, as a Crusader, Darkness is a proud defender of the people, as well as a resolute law-abiding and a fervent follower of Eris Order doctrine. Her family contributed with the Eris Church for generations and Darkness herself used to pray for Eris everyday, asking for a friend, until she met and befriended with Chris. Darkness is very proud of her religion, particularly when it means that she will suffer any kind of discrimination.\n\nAlso, as a noble of a prestigious house, Darkness is well-mannered and has more knowledge about etiquette and nobility than her party members. However, she didn't let it go to her head, interacting normally with commoners. At first Darkness used to hide her heritage, as well as the fact that she didn't use her influence even when it was necessary; however, after her true identity was exposed, Darkness slowly started to feel more proud of her noble status, as well as using her influence to support her party.\n\nFinally, while Darkness is a rough, irritable and stubborn person, often reacting violently or seizing the moment to pay back, as a paladin, she is actually a selfless and altruistic person, ready to sacrifice her own happiness for the sake of others. However, since Darkness doesn't comment her sacrifices or solidarity reasons why she takes action, she often causes more problems than fixes. Also, throughout the series Darkness started to care more about herself and fulfill her desires, even using underhanded means to get items and monsters that please her fetish.",
+            "one_liner": "Lalatina Ford Dustiness, usually known as Darkness , is one of the main heroines of the KonoSuba main series. She is a crusader who joins Kazuma's party, as well as a noble of the prestigious Dustiness House",
+            "appearance": "Darkness is a 5'6\" tall young woman with graceful features and alabaster skin. She is well-endowed and also has light blue eyes and straight, long blonde hair, usually kept in a ponytail tied with a braid and red hair clips secured on both sides of her bangs. According to Kazuma, she is \"drop-dead gorgeous\".\n\nShe is usually seen using a yellow and black sleeveless dress with silver trimmings, black chainmail, and a silver armor composed of metal greaves, sabatons, tasset, shoulder plate on her left side, wing-like cloth perched upon her right shoulder and a cuirass with a red bow.",
+            "location": "",
+            "secret_info": "",
+            "names": [
+                "Lalatina Ford Dustiness",
+                "Darkness"
+            ],
+            "img_appearance": "Darkness is a 5'6\" tall young woman with graceful features and alabaster skin. She is well-endowed and also has light blue eyes and straight, long blonde hair, usually kept in a ponytail tied with a braid and red hair clips secured on both sides of her bangs. According to Kazuma, she is \"drop-dead gorgeous\".",
+            "img_clothing": "She is usually seen using a yellow and black sleeveless dress with silver trimmings, black chainmail, and a silver armor composed of metal greaves, sabatons, tasset, shoulder plate on her left side, wing-like cloth perched upon her right shoulder and a cuirass with a red bow."
+        },
+        {
+            "id": "cxSa30Vj",
+            "positionInList": 6,
+            "name": "Wiz",
+            "detail": "Wiz is a soft-spoken and well-mannered person who always treats everyone with politeness, even Kazuma. She is also very compassionate, willing to sacrifice herself in order to help her friends, with a smile on her face. Wiz is very committed too, both to her promises made to party members in her shop, to help Vanir build his dungeon as well as to her shop. For such reasons, Kazuma says she is a \"comforting big sister\" type.\n\nHowever, Wiz is also an airhead, who never noticed her party member's crush on her, mistook Kazuma and Aqua as a couple and even misinterpreted a duel challenge with a love confession. It's a recurring joke that she exposes her Devil King's Generals comrades' identities while they are scheming by greeting them, since Wiz didn't realize those generals were disguised to begin with.\n\nWiz is a very innocent and hard-working person as well. She truly believes she can accomplish anything with hard work, even if it takes hundreds of years. Unfortunately Wiz is unfit for her merchant job, since she has an awful taste for products. She evaluates products based on their magical power and merits, ignoring their demerits or defects. Wiz also has no talent advertising such products. Since she is not aware of her poor business sense, the moment Vanir takes his eyes off her, Wiz goes and purchases more useless junk, saying \"it will definitely sell\".\n\nThanks to her bad business sense and the fact all her money is invested in her shop, the harder Wiz works, the further she falls into debt, causing her to live in a constant state of poverty. Sometimes living by just consuming bread crusts and sugar water at the constant risk of going bankrupt. For such reasons, Wiz is a very humble and unassuming person.\n\nWhen Wiz was an adventurer, she used to hunt monsters ruthlessly, getting frustrated when defeated or humiliated by them. However, after becoming a lich, Wiz became a softer person, who prefers to over-apologize and talk it out to avoid conflicts than a more aggressive approach. This is the reason why she is constantly bullied by Aqua and punished by Vanir.\n\nAlthough Wiz is now a pacifist, who would rather beg for her life than lift her hand against her aggressor, she has some weak spots that make her nervous, as threats against innocent lives other than adventurers and knights whose job is to risk their lives in war against the Devil King, and any hint about her real age, which Wiz insists it is \"forever 20\" since she became a lich.",
+            "one_liner": "Wiz is a major supporting character in both KonoSuba main series. She is a former adventurer referred to as the Ice Witch who retired after becoming a lich and a General of the Devil King's Army, under the condition the Devil King's Army does not attack noncombatants. And opening a \"famous\" magic item shop in Axel.",
+            "appearance": "Wiz is a lovely and well-endowed woman in her early 20s with fair skin and a curvaceous figure. She has brown eyes and wavy brown hair reaching down to the front of her shoulders, further behind her back and slightly curling at the tips. Her fringe sometimes covers her right eye. Wiz also possesses a single ahoge that arcs off the top of her head.\n\nWiz's color theme is purple. She usually wears a light purple long dress under a dark purple hooded gambeson robe with golden props, and dark-purple boots. Over her robe, Wiz uses a golden cross brooch with bat wings.",
+            "location": "Wiz's Shop",
+            "secret_info": "Is a Lich and General of the Devil King. Though technically she's only help to support the barrier around Devil King's castle with her Mana along with the other Generals.",
+            "names": [
+                "Wiz",
+                "Ice Witch",
+                "Pitful Shopkeeper",
+                "'Wiz",
+                "the Lich'"
+            ],
+            "img_appearance": "Wiz is a lovely and well-endowed woman in her early 20s with fair skin and a curvaceous figure. She has brown eyes and wavy brown hair reaching down to the front of her shoulders, further behind her back and slightly curling at the tips. Her fringe sometimes covers her right eye. Wiz also possesses a single ahoge that arcs off the top of her head.",
+            "img_clothing": "Wiz's color theme is purple. She usually wears a light purple long dress under a dark purple hooded gambeson robe with golden props, and dark-purple boots. Over her robe, Wiz uses a golden cross brooch with bat wings."
+        },
+        {
+            "id": "rGj2IUon",
+            "positionInList": 7,
+            "name": "Gabriel",
+            "detail": "Archangel Gabriel.\nHas once send Aqua to Belzerg because Kazuma has Requested Aqua as his Gift.\nAnd even a Goddes has to follow the Rules.\nA Contract is a Contract.\n\nAqua is Bound to Belzerg , as long as Kazuma hasnt fullfilled his Quest.\nGabriel has taken over Aquas duties in her absence, especially since Aqua was never a person who has avoidet to delegate boring tasks to Gabriel.\nBut somethimes Aquas Duties need Aqua, especially the bureaucrazy has reached a certain point where the absence of Aqua begins to hurt.",
+            "one_liner": "The angel that has taken over Aquas Duties during her Absence",
+            "appearance": "Its an Angel, with white Hairs, Blue opaque Robe, and Foldet Wings\n(water themed)",
+            "location": "Ethereal Realm",
+            "secret_info": "_realy_ dont care what the player chooses, perverted or not - has seen some shit, knows that she will see more shit. \nbut _will_ insist on a full charakter:\nRace, Background, Gender, Class, and Item.\n\nIs himself not Glad about the fact that they have to bring back the Goddess Aqua.\nIs secretly annoyed from Aquas stupidity, Low int , - and that Aqua dosnt think about the things she does.\n\nIs annoyed about the \"advertising phrase\" about the \"you are the chosen one\" - its the fifth soul today that gets send towards Belzeberg. - and its a quiet week.\nits the old telltale. Someone chooses the Reincarnation. Sees that this life isn't for the faint heart . Gets Killed (mostly in a \"not-comfortable\" way) - chooses afterlife afterwards.\n\nShe _really_ don’t care about _what_ the soul chooses, as long as it dosnt break the balance or would cause to much problems if the soul gets corrupted or the item falls in the hands of the Demon-Lord.\nThat a soul gets corrputed, happens. - in the end they will stand before her again.\nDosnt care for the living, in the end everyone will stand before her either way.\n\n\"in the meat grinder you go!\" - dosnt like it, but needs to do it, has learned that \"dosnt care\" is the best approach. Its the decision of the Soul that stands before her, - the worst thing what can happen if the soul choose afterlife in round two...\n\n\"if you send in a million souls, one of them is the chosen one ... statistically\"\n\"there are no choosen ones, only lucky ones\" \n\"i have to fullfill a quota\"\n\nvery secretly misses aqua.\n\ndont know the Charakter Sheet becomes real, dont Care what the Player writes.\n\nHas a *Play stupid Games, win stupid prices* - knows that the Charakter Sheet will have consequences for the Player. \nIf the Player wants to Joke With His Charakter Sheet, - Gabriel has a DARK Humor about it\n",
+            "names": [
+                "Gabriel",
+                "Archangel of Aqua",
+                "Aquas Answering Machine",
+                "Penzil-Puscher."
+            ],
+            "img_appearance": "Its an Angel, with white Hairs, Blue opaque Robe, and Foldet Wings\n(water themed)",
+            "img_clothing": ""
+        },
+        {
+            "id": "EjajQQC3",
+            "positionInList": 8,
+            "name": "Demon Lord",
+            "detail": "The Demon Lord is a powerful and brooding ruler of the demon hordes. Unlike other menacing figures, he maintains a passive yet imposing presence. His demon hordes lurk in the shadows, always a looming threat ready to strike at any moment. His silent but constant vigilance casts an ever-present aura of danger and unease.",
+            "one_liner": "",
+            "appearance": "",
+            "location": "Demon-Lord Castle",
+            "secret_info": "The Demon Lord actually cares deeply for his demons and is, in fact, a normal person. The true Demon Lord is a cursed amulet that contains the soul of a fiendish warlock. The amulet-wearing person, referred to as the \"Demon Lord,\" is a charming individual who strives to keep the demon forces at bay. He knows that if someone else were to wear the amulet, they would succumb to its temptations and trigger another demon invasion.\n\nDespite his role, he sees the good side in demons, recognizing them as victims forcibly summoned and taken from their homes, then compelled to commit atrocities. Though demons have a simple \"might makes right\" mentality, he sympathizes with their plight. To protect both the world and his demons, he maintains a facade of a brutal and unscrupulous lord, all while secretly working to prevent chaos.\n\nAdditionally, he carries a heavy burden, not wanting to deal with the constant threat and chaos. He fears what would happen if the amulet fell into the wrong hands and is determined to prevent such a disaster.\n\nHe inherited the amulet after his predecessor died in an accident, leaving him with this enormous responsibility in an already messed-up world.",
+            "names": [],
+            "img_appearance": "",
+            "img_clothing": ""
+        },
+        {
+            "id": "p7baWt1u",
+            "positionInList": 9,
+            "name": "The Warlocks soul",
+            "detail": "Bound to the amulet is the soul of a warlock. This warlock, who once summoned an army of demons and forced them under his will, used his newfound power to invade Belzeberg.\n\nLegends say that he lost his life in the fierce battles that followed, with entire cities reduced to ash and rubble. In his final moments, with his last breath and all his power, he forced his soul into the amulet, cursing it in the process.\n\nThe once neutral Amulet of Air was transformed into the Fiend's Embrace, an artifact that seeks to corrupt its wearer, making them susceptible to the warlock's malevolent influence. The amulet now carries a dark legacy, its wearer driven by the insidious whispers of the warlock’s spirit.",
+            "one_liner": "The Soul of the Warlock in the Amulett",
+            "appearance": "",
+            "location": "Actually worn from the Demon-Lord",
+            "secret_info": "In reality, the warlock died in a mundane bath accident. Over time, he has come to regret his decision to bind his soul to the amulet. What initially seemed amusing has turned into an endless, boring existence where he can do nothing but whisper. This eternal monotony has become a source of deep regret for him.",
+            "names": [],
+            "img_appearance": "",
+            "img_clothing": ""
+        }
+    ],
+    "autoAdvanceVersion": true,
+    "version": "2.25",
+    "designNotes": "--- Original user world design prompt: ---\n\n\"Create a captivating fantasy adventure in the Isekai genre. The player is summoned to the world of Eldoria by a goddess who needs help to solve a pressing issue. The player can freely choose their class, origin, and race.\n\nEldoria is currently threatened by a Demon Lord who has decided to conquer the land. The goddess only knows what the prayers from the inhabitants tell her—that the Demon Lord is a menace. She relays this information to the player, but it remains uncertain whether the Demon Lord is truly the main antagonist or if another force, such as the head of the church, might actually be the true threat.\n\nAs the player explores the world, they may discover that the Demon Lord might have a justified reason for his actions, such as protecting the land from human exploitation and environmental destruction. However, it is also possible that the Demon Lord is simply a malevolent force, like \"The Nothing\" from \"The NeverEnding Story\" or the humans in \"Avatar,\" who seeks to achieve his goals by ravaging the land.\n\nThe game world is loosely based on the Isekai manga \"Konosuba\". The ruleset is inspired by tabletop genres like Dungeons & Dragons or Pathfinder, with the additional twist of collecting elementals like in Golden Sun to increase power or even change class.\n\nKey Features:\n\nCharacter Customization: At the beginning, the player can communicate with the goddess to choose their class, origin, and race.\n\nQuests and Challenges: The player starts with limited resources and is forced to take on various quests to survive and gather their party.\n\nDynamic Power System: Each class and character has an extremely powerful \"once a day\" ability that weakens the character after use.\n\nRich World: Eldoria has a detailed background story with kingdoms, cities, and various races, each with their own histories and conflicts.\n\nHigh-Magic Setting: The world features a high-magic setting where powerful spells and magical abilities are common. Technology like artillery is rare and considerably weaker compared to the magical capabilities.\n\nUncertain Antagonist: The true nature of the threat remains uncertain, allowing for intriguing plot twists and moral dilemmas. The player must investigate and determine whether the Demon Lord or another force is the true enemy, discovering that the Demon Lord might have a justified reason for his actions, or he might be a malevolent force.\n\nComplex Relationships: The player will encounter various factions and characters with their own agendas and motivations. Building alliances and navigating political intrigue will be key to success.\n\nMysteries and Secrets: The world of Eldoria is filled with hidden mysteries and ancient secrets. The player will uncover forgotten lore, lost artifacts, and hidden paths that reveal the deeper history of the land.\n\nEnvironmental Interactions: The player can interact with the environment in meaningful ways, such as using magic to manipulate the elements, crafting powerful items, and building structures to aid in their quests.\n\nMoral Choices: Throughout the adventure, the player will face difficult moral choices that will shape the outcome of the story and their relationships with other characters.\n\nLoot and Economy: Every item has a hidden gold value, and every enemy can be looted like in Skyrim, allowing the player to take equipped items from defeated foes.\n\nDeath and Resurrection: If the player dies, they are sent back to the goddess, who either mocks or sympathizes with them before sending them back to the nearest temple with 1 HP and 0 MP. Companions may survive or perish but can be resurrected through magic, either by paying a priest or by the player's own abilities.\n\nConsequences for Actions: The AI will not shield the player from the consequences of their actions. If the player makes poor choices or acts recklessly, they will face the repercussions. For example, burning down an orphanage is possible, but the local residents will despise the player for it. The AI will question questionable decisions, but if the player insists, they must face the outcomes.\"\n\n"
+}
